@@ -110,8 +110,8 @@ id: Indonesia
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Indonesia/
-markerFolder: ./Indonesia/
+geojsonFolder: ./
+markerFolder: ./
 ```
 
 [name-en::Indonesia] 
