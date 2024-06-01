@@ -21,8 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- ID
-- IDN
 - Indonesia
 - Indonésie
 - إندونيسيا
