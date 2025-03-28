@@ -1,175 +1,175 @@
----
+﻿---
 location:
-  - -6.14
-  - 106.76
+- -6.14
+- 106.76
 mapzoom:
-  - 7
-  - 12
+- 7
+- 12
 mapmarker: city
 type: City
 tags:
-  - geo/City
+- geo/City
 SpocWebEntityId: 29820
 isDeleted: false
 confidential: public
 aliases:
-  - Jakarta
-  - Djakarta
+- Jakarta
+- Djakarta
 has_id_wikidata: Q3630
-instance of:
-  - "[[/_Standards/WikiData/WD~megacity,174844]]"
-  - "[[/_Standards/WikiData/WD~metropolis,200250]]"
-  - "[[/_Standards/WikiData/WD~global city,208511]]"
-  - "[[/_Standards/WikiData/WD~largest city,51929311]]"
-  - "[[/_Standards/WikiData/WD~former national capital,129268952]]"
-  - "[[/_Standards/WikiData/WD~province of Indonesia,5098]]"
-twinned administrative body:
-  - "[[/_Standards/WikiData/WD~Yazd,182394]]"
-  - "[[/_Standards/WikiData/WD~Jeddah,374365]]"
-  - "[[/_Standards/WikiData/WD~Istanbul,406]]"
-  - "[[/_Standards/WikiData/WD~Moscow,649]]"
-  - "[[/_Standards/WikiData/WD~Amsterdam,727]]"
-  - "[[/_Standards/WikiData/WD~Beijing,956]]"
-  - "[[/_Standards/WikiData/WD~Islamabad,1362]]"
-  - "[[/_Standards/WikiData/WD~Manila,1461]]"
-  - "[[/_Standards/WikiData/WD~Tokyo,1490]]"
-  - "[[/_Standards/WikiData/WD~Mexico City,1489]]"
-  - "[[/_Standards/WikiData/WD~Abu Dhabi,1519]]"
-  - "[[/_Standards/WikiData/WD~Astana,1520]]"
-  - "[[/_Standards/WikiData/WD~Hanoi,1858]]"
-  - "[[/_Standards/WikiData/WD~Bangkok,1861]]"
-  - "[[/_Standards/WikiData/WD~Kuala Lumpur,1865]]"
-  - "[[/_Standards/WikiData/WD~Kyiv,1899]]"
-  - "[[/_Standards/WikiData/WD~New South Wales,3224]]"
-  - "[[/_Standards/WikiData/WD~Casablanca,7903]]"
-  - "[[/_Standards/WikiData/WD~Seoul,8684]]"
-  - "[[/_Standards/WikiData/WD~Pyongyang,18808]]"
-  - "[[/_Standards/WikiData/WD~New York City,60]]"
-  - "[[/_Standards/WikiData/WD~Berlin,64]]"
-  - "[[/_Standards/WikiData/WD~Los Angeles,65]]"
-  - "[[/_Standards/WikiData/WD~London,84]]"
-  - "[[/_Standards/WikiData/WD~Rotterdam,34370]]"
-described by source:
-  - "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[/_Standards/WikiData/WD~Great Complete Encyclopedia of All Sciences and Arts,1547546]]"
-  - "[[/_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-  - "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[/_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-located in or next to body of water:
-  - "[[/_Standards/WikiData/WD~Ciliwung River,645047]]"
-  - "[[/_Standards/WikiData/WD~Java Sea,49364]]"
-language used:
-  - "[[/_Standards/WikiData/WD~Malay trade and creole languages,653415]]"
-  - "[[/_Standards/WikiData/WD~Petjo,940486]]"
-  - "[[/_Standards/WikiData/WD~Buru,2928650]]"
-  - "[[/_Standards/WikiData/WD~Fordata,5468035]]"
-  - "[[/_Standards/WikiData/WD~Betawi,33014]]"
-part of: "[[/_Standards/WikiData/WD~Jabodetabek,1015978]]"
-owner of:
-  - "[[/_Standards/WikiData/WD~Gelora Bung Karno Stadium,1068044]]"
-  - "[[/_Standards/WikiData/WD~Lebak Bulus Stadium,4810852]]"
-  - "[[/_Standards/WikiData/WD~Jakarta International Stadium,6124453]]"
-  - "[[/_Standards/WikiData/WD~VIJ Stadium,16632565]]"
-different from:
-  - "[[/_Standards/WikiData/WD~Batavia,1199713]]"
-  - "[[/_Standards/WikiData/WD~People from Jakarta,1718751]]"
-has characteristic: "[[/_Standards/WikiData/WD~primate city,1422929]]"
-located in time zone:
-  - "[[/_Standards/WikiData/WD~Indonesia Western Standard Time,7458035]]"
-  - "[[/_Standards/WikiData/WD~UTC+07_00,6940]]"
-geoshape: http://commons.wikimedia.org/data/main/Data:Indonesia/Jakarta+Raya.map
-logo image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%2BJakarta%20Logo.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/%2BJakarta%20Logo%20%28Indonesian%20Language%29.svg
-detail map: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B%20%D0%94%D0%B6%D0%B0%D0%BA%D0%B0%D1%80%D1%82%D1%8B.gif
-aerial view: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20north%20jakarta.jpg
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jakarta%20%28vectorised%29.svg
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Jakarta%20Special%20Capital%20Region%20in%20Indonesia%20%28special%20marker%29.svg
-location map: http://commons.wikimedia.org/wiki/Special:FilePath/Jakarta%20Wikivoyage%20Map%20PNG.png
-postal code:
-  - 10110–14540
-  - 19110–19130
-Dewey Decimal Classification: 2--59822
-Instagram username: dkijakarta
-X (Twitter) username: dkijakarta
-Facebook username: DKIJakarta
-ISO 3166-2 code: ID-JK
+instance_of:
+- '[[/_Standards/WikiData/WD~megacity,174844]]'
+- '[[/_Standards/WikiData/WD~metropolis,200250]]'
+- "[[/_Standards/WikiData/WD~global city,208511]]"
+- "[[/_Standards/WikiData/WD~largest city,51929311]]"
+- "[[/_Standards/WikiData/WD~former national capital,129268952]]"
+- "[[/_Standards/WikiData/WD~province of Indonesia,5098]]"
+twinned_administrative_body:
+- '[[/_Standards/WikiData/WD~Yazd,182394]]'
+- '[[/_Standards/WikiData/WD~Jeddah,374365]]'
+- '[[/_Standards/WikiData/WD~Istanbul,406]]'
+- '[[/_Standards/WikiData/WD~Moscow,649]]'
+- '[[/_Standards/WikiData/WD~Amsterdam,727]]'
+- '[[/_Standards/WikiData/WD~Beijing,956]]'
+- '[[/_Standards/WikiData/WD~Islamabad,1362]]'
+- '[[/_Standards/WikiData/WD~Manila,1461]]'
+- '[[/_Standards/WikiData/WD~Tokyo,1490]]'
+- "[[/_Standards/WikiData/WD~Mexico City,1489]]"
+- "[[/_Standards/WikiData/WD~Abu Dhabi,1519]]"
+- '[[/_Standards/WikiData/WD~Astana,1520]]'
+- '[[/_Standards/WikiData/WD~Hanoi,1858]]'
+- '[[/_Standards/WikiData/WD~Bangkok,1861]]'
+- "[[/_Standards/WikiData/WD~Kuala Lumpur,1865]]"
+- '[[/_Standards/WikiData/WD~Kyiv,1899]]'
+- "[[/_Standards/WikiData/WD~New South Wales,3224]]"
+- '[[/_Standards/WikiData/WD~Casablanca,7903]]'
+- '[[/_Standards/WikiData/WD~Seoul,8684]]'
+- '[[/_Standards/WikiData/WD~Pyongyang,18808]]'
+- "[[/_Standards/WikiData/WD~New York City,60]]"
+- '[[/_Standards/WikiData/WD~Berlin,64]]'
+- "[[/_Standards/WikiData/WD~Los Angeles,65]]"
+- '[[/_Standards/WikiData/WD~London,84]]'
+- '[[/_Standards/WikiData/WD~Rotterdam,34370]]'
+described_by_source:
+- "[[/_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[/_Standards/WikiData/WD~Great Complete Encyclopedia of All Sciences and Arts,1547546]]"
+- "[[/_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+- "[[/_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[/_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
+located_in_or_next_to_body_of_water:
+- "[[/_Standards/WikiData/WD~Ciliwung River,645047]]"
+- "[[/_Standards/WikiData/WD~Java Sea,49364]]"
+language_used:
+- "[[/_Standards/WikiData/WD~Malay trade and creole languages,653415]]"
+- '[[/_Standards/WikiData/WD~Petjo,940486]]'
+- '[[/_Standards/WikiData/WD~Buru,2928650]]'
+- '[[/_Standards/WikiData/WD~Fordata,5468035]]'
+- '[[/_Standards/WikiData/WD~Betawi,33014]]'
+part_of: '[[/_Standards/WikiData/WD~Jabodetabek,1015978]]'
+owner_of:
+- "[[/_Standards/WikiData/WD~Gelora Bung Karno Stadium,1068044]]"
+- "[[/_Standards/WikiData/WD~Lebak Bulus Stadium,4810852]]"
+- "[[/_Standards/WikiData/WD~Jakarta International Stadium,6124453]]"
+- "[[/_Standards/WikiData/WD~VIJ Stadium,16632565]]"
+different_from:
+- '[[/_Standards/WikiData/WD~Batavia,1199713]]'
+- "[[/_Standards/WikiData/WD~People from Jakarta,1718751]]"
+has_characteristic: "[[/_Standards/WikiData/WD~primate city,1422929]]"
+located_in_time_zone:
+- "[[/_Standards/WikiData/WD~Indonesia Western Standard Time,7458035]]"
+- '[[/_Standards/WikiData/WD~UTC+07_00,6940]]'
+geoshape: "http://commons.wikimedia.org/data/main/Data:Indonesia/Jakarta+Raya.map"
+logo_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/%2BJakarta%20Logo.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/%2BJakarta%20Logo%20%28Indonesian%20Language%29.svg"
+detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B%20%D0%94%D0%B6%D0%B0%D0%BA%D0%B0%D1%80%D1%82%D1%8B.gif"
+aerial_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20of%20north%20jakarta.jpg"
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jakarta%20%28vectorised%29.svg"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Jakarta%20Special%20Capital%20Region%20in%20Indonesia%20%28special%20marker%29.svg"
+location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Jakarta%20Wikivoyage%20Map%20PNG.png"
+postal_code:
+- 10110–14540
+- 19110–19130
+Dewey_Decimal_Classification: 2--59822
+Instagram_username: dkijakarta
+X_Twitter_username: dkijakarta
+Facebook_username: DKIJakarta
+ISO_3166_2_code: ID-JK
 HASC: ID.JK
-GitHub topic: jakarta
+GitHub_topic: jakarta
 subreddit: jakarta
 demonym:
-  - Jakartan
-  - Jakartanais
-  - Jakartanaise
-  - Džakartčan
-  - Džakartčanka
-official name:
-  - Daerah Khusus Ibukota Jakarta
-  - Jakarta
-  - Batavia
-  - Jakarta
-short name: DKI Jakarta
-motto text: Jaya Raya
-native label:
-  - Jakarta
-  - Jakarta
-coat of arms: "[[/_Standards/WikiData/WD~coat of arms of Jakarta,10858729]]"
-head of government: "[[/_Standards/WikiData/WD~Heru Budi Hartono,16181126]]"
-office held by head of government: "[[/_Standards/WikiData/WD~Governor of the Special Capital Region of Jakarta,54239443]]"
-open data portal: "[[/_Standards/WikiData/WD~Jakarta Open Data Portal,62476440]]"
-category for people buried here: "[[/_Standards/WikiData/WD~Q64258378,64258378]]"
+- Jakartan
+- Jakartanais
+- Jakartanaise
+- Džakartčan
+- Džakartčanka
+official_name:
+- "Daerah Khusus Ibukota Jakarta"
+- Jakarta
+- Batavia
+- Jakarta
+short_name: "DKI Jakarta"
+motto_text: "Jaya Raya"
+native_label:
+- Jakarta
+- Jakarta
+coat_of_arms: "[[/_Standards/WikiData/WD~coat of arms of Jakarta,10858729]]"
+head_of_government: "[[/_Standards/WikiData/WD~Heru Budi Hartono,16181126]]"
+office_held_by_head_of_government: "[[/_Standards/WikiData/WD~Governor of the Special Capital Region of Jakarta,54239443]]"
+open_data_portal: "[[/_Standards/WikiData/WD~Jakarta Open Data Portal,62476440]]"
+category_for_people_buried_here: '[[/_Standards/WikiData/WD~Q64258378,64258378]]'
 hashtag: Jakarta
-Commons category: Jakarta
-OmegaWiki Defined Meaning: "473025"
-WOEID: "1047378"
+Commons_category: Jakarta
+OmegaWiki_Defined_Meaning: 473025
+WOEID: 1047378
 population: 10562088
 nickname:
-  - J-Town
-  - The Big Durian
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Jakarta.svg
-inception: 1527-07-02T00:00:00Z
-FIPS 10-4 (countries and regions): ID04
-significant event: "[[/_Standards/WikiData/WD~transfer of the capital of Indonesia,66765181]]"
-member of: "[[/_Standards/WikiData/WD~World Tourism Cities Federation,67652870]]"
-economy of topic: "[[/_Standards/WikiData/WD~economy of Jakarta,106020255]]"
+- J-Town
+- "The Big Durian"
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Jakarta.svg"
+inception: "1527-07-02T00:00:00Z"
+FIPS_10_4_countries_and_regions_: ID04
+significant_event: "[[/_Standards/WikiData/WD~transfer of the capital of Indonesia,66765181]]"
+member_of: "[[/_Standards/WikiData/WD~World Tourism Cities Federation,67652870]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy of Jakarta,106020255]]"
 flag: "[[/_Standards/WikiData/WD~flag of Jakarta,124477964]]"
-time of earliest written record: 0397-01-01T00:00:00Z
-BHCL UUID: c717f1ff-bbd1-4a1a-a33a-2d3068b38893
-video: http://commons.wikimedia.org/wiki/Special:FilePath/Jakarta%2C%20Indonesia.webm
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Jakarta%20WV%20banner.jpg
-panoramic view: http://commons.wikimedia.org/wiki/Special:FilePath/Jakarta%20CBD.jpg
-nighttime view: http://commons.wikimedia.org/wiki/Special:FilePath/Jakarta%20Skyline%20Part%202.jpg
-montage image: http://commons.wikimedia.org/wiki/Special:FilePath/Jakarta%20Montage%202024.jpg
-official website: https://www.jakarta.go.id/
-coordinate location: Point(106.8275 -6.175)
-present in work: "[[/_Standards/WikiData/WD~Civilization V,2385]]"
-shares border with:
-  - "[[/_Standards/WikiData/WD~Banten,3540]]"
-  - "[[/_Standards/WikiData/WD~West Java,3724]]"
-located in/on physical feature: "[[/_Standards/WikiData/WD~Java,3757]]"
-official language: "[[/_Standards/WikiData/WD~Indonesian,9240]]"
-contains the administrative territorial entity:
-  - "[[/_Standards/WikiData/WD~Thousand Islands,10107]]"
-  - "[[/_Standards/WikiData/WD~East Jakarta,10111]]"
-  - "[[/_Standards/WikiData/WD~Central Jakarta,10109]]"
-  - "[[/_Standards/WikiData/WD~South Jakarta,10114]]"
-  - "[[/_Standards/WikiData/WD~North Jakarta,10113]]"
-  - "[[/_Standards/WikiData/WD~West Jakarta,10116]]"
-continent: "[[/_Standards/WikiData/WD~Asia,48]]"
-capital of: "[[/_Standards/WikiData/WD~Indonesia,252]]"
-located in the administrative territorial entity: "[[/_Standards/WikiData/WD~Indonesia,252]]"
-country: "[[/_Standards/WikiData/WD~Indonesia,252]]"
-elevation above sea level: 8
-social media followers:
-  - 316000
-  - 1409745
-licence plate code: B
+time_of_earliest_written_record: "0397-01-01T00:00:00Z"
+BHCL_UUID: c717f1ff-bbd1-4a1a-a33a-2d3068b38893
+video: "http://commons.wikimedia.org/wiki/Special:FilePath/Jakarta%2C%20Indonesia.webm"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Jakarta%20WV%20banner.jpg"
+panoramic_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Jakarta%20CBD.jpg"
+nighttime_view: "http://commons.wikimedia.org/wiki/Special:FilePath/Jakarta%20Skyline%20Part%202.jpg"
+montage_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Jakarta%20Montage%202024.jpg"
+official_website: "https://www.jakarta.go.id/"
+coordinate_location: "Point(106.8275 -6.175)"
+present_in_work: "[[/_Standards/WikiData/WD~Civilization V,2385]]"
+shares_border_with:
+- '[[/_Standards/WikiData/WD~Banten,3540]]'
+- "[[/_Standards/WikiData/WD~West Java,3724]]"
+located_in_on_physical_feature: '[[/_Standards/WikiData/WD~Java,3757]]'
+official_language: '[[/_Standards/WikiData/WD~Indonesian,9240]]'
+contains_the_administrative_territorial_entity:
+- "[[/_Standards/WikiData/WD~Thousand Islands,10107]]"
+- "[[/_Standards/WikiData/WD~East Jakarta,10111]]"
+- "[[/_Standards/WikiData/WD~Central Jakarta,10109]]"
+- "[[/_Standards/WikiData/WD~South Jakarta,10114]]"
+- "[[/_Standards/WikiData/WD~North Jakarta,10113]]"
+- "[[/_Standards/WikiData/WD~West Jakarta,10116]]"
+continent: '[[/_Standards/WikiData/WD~Asia,48]]'
+capital_of: '[[/_Standards/WikiData/WD~Indonesia,252]]'
+located_in_the_administrative_territorial_entity: '[[/_Standards/WikiData/WD~Indonesia,252]]'
+country: '[[/_Standards/WikiData/WD~Indonesia,252]]'
+elevation_above_sea_level: 8
+social_media_followers:
+- 316000
+- 1409745
+licence_plate_code: B
 area: 662
-administrative code of Indonesia: "31"
-Statistics Indonesia area code: "31"
-local dialing code: "021"
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Jakarta.jpg
+administrative_code_of_Indonesia: 31
+Statistics_Indonesia_area_code: 31
+local_dialing_code: 021
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Jakarta.jpg"
 ---
 
 [geo-lon::106.76] 
