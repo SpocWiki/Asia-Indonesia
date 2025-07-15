@@ -40,11 +40,18 @@ markerFolder: ./Jawa_Tengah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Tengah|Jawa_Tengah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Tengah.public|Jawa_Tengah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Tengah.internal|Jawa_Tengah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Tengah.protect|Jawa_Tengah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Tengah.private|Jawa_Tengah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Tengah.personal|Jawa_Tengah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Tengah.secret|Jawa_Tengah.secret]] 
+
+### #is_/same_as :: [Jawa_Tengah](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Tengah.md) 
+
+### #is_/same_as :: [Jawa_Tengah.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Tengah.public.md) 
+
+### #is_/same_as :: [Jawa_Tengah.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Tengah.internal.md) 
+
+### #is_/same_as :: [Jawa_Tengah.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Tengah.protect.md) 
+
+### #is_/same_as :: [Jawa_Tengah.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Tengah.private.md) 
+
+### #is_/same_as :: [Jawa_Tengah.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Tengah.personal.md) 
+
+### #is_/same_as :: [Jawa_Tengah.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Tengah.secret.md)
 

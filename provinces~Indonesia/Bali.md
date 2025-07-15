@@ -40,11 +40,18 @@ markerFolder: ./Bali/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bali|Bali]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bali.public|Bali.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bali.internal|Bali.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bali.protect|Bali.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bali.private|Bali.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bali.personal|Bali.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bali.secret|Bali.secret]] 
+
+### #is_/same_as :: [Bali](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bali.md) 
+
+### #is_/same_as :: [Bali.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bali.public.md) 
+
+### #is_/same_as :: [Bali.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bali.internal.md) 
+
+### #is_/same_as :: [Bali.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bali.protect.md) 
+
+### #is_/same_as :: [Bali.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bali.private.md) 
+
+### #is_/same_as :: [Bali.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bali.personal.md) 
+
+### #is_/same_as :: [Bali.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bali.secret.md)
 

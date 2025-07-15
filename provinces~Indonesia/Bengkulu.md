@@ -40,11 +40,18 @@ markerFolder: ./Bengkulu/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bengkulu|Bengkulu]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bengkulu.public|Bengkulu.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bengkulu.internal|Bengkulu.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bengkulu.protect|Bengkulu.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bengkulu.private|Bengkulu.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bengkulu.personal|Bengkulu.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bengkulu.secret|Bengkulu.secret]] 
+
+### #is_/same_as :: [Bengkulu](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu.md) 
+
+### #is_/same_as :: [Bengkulu.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu.public.md) 
+
+### #is_/same_as :: [Bengkulu.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu.internal.md) 
+
+### #is_/same_as :: [Bengkulu.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu.protect.md) 
+
+### #is_/same_as :: [Bengkulu.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu.private.md) 
+
+### #is_/same_as :: [Bengkulu.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu.personal.md) 
+
+### #is_/same_as :: [Bengkulu.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu.secret.md)
 

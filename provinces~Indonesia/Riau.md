@@ -40,11 +40,18 @@ markerFolder: ./Riau/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Riau|Riau]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Riau.public|Riau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Riau.internal|Riau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Riau.protect|Riau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Riau.private|Riau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Riau.personal|Riau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Riau.secret|Riau.secret]] 
+
+### #is_/same_as :: [Riau](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Riau.md) 
+
+### #is_/same_as :: [Riau.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Riau.public.md) 
+
+### #is_/same_as :: [Riau.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Riau.internal.md) 
+
+### #is_/same_as :: [Riau.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Riau.protect.md) 
+
+### #is_/same_as :: [Riau.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Riau.private.md) 
+
+### #is_/same_as :: [Riau.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Riau.personal.md) 
+
+### #is_/same_as :: [Riau.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Riau.secret.md)
 

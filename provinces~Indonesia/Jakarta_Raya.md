@@ -40,11 +40,18 @@ markerFolder: ./Jakarta_Raya/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jakarta_Raya|Jakarta_Raya]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jakarta_Raya.public|Jakarta_Raya.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jakarta_Raya.internal|Jakarta_Raya.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jakarta_Raya.protect|Jakarta_Raya.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jakarta_Raya.private|Jakarta_Raya.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jakarta_Raya.personal|Jakarta_Raya.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jakarta_Raya.secret|Jakarta_Raya.secret]] 
+
+### #is_/same_as :: [Jakarta_Raya](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya.md) 
+
+### #is_/same_as :: [Jakarta_Raya.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya.public.md) 
+
+### #is_/same_as :: [Jakarta_Raya.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya.internal.md) 
+
+### #is_/same_as :: [Jakarta_Raya.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya.protect.md) 
+
+### #is_/same_as :: [Jakarta_Raya.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya.private.md) 
+
+### #is_/same_as :: [Jakarta_Raya.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya.personal.md) 
+
+### #is_/same_as :: [Jakarta_Raya.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya.secret.md)
 

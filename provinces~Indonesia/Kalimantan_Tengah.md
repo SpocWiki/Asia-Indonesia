@@ -40,11 +40,18 @@ markerFolder: ./Kalimantan_Tengah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah|Kalimantan_Tengah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.public|Kalimantan_Tengah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.internal|Kalimantan_Tengah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.protect|Kalimantan_Tengah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.private|Kalimantan_Tengah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.personal|Kalimantan_Tengah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Tengah.secret|Kalimantan_Tengah.secret]] 
+
+### #is_/same_as :: [Kalimantan_Tengah](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Tengah.md) 
+
+### #is_/same_as :: [Kalimantan_Tengah.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Tengah.public.md) 
+
+### #is_/same_as :: [Kalimantan_Tengah.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Tengah.internal.md) 
+
+### #is_/same_as :: [Kalimantan_Tengah.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Tengah.protect.md) 
+
+### #is_/same_as :: [Kalimantan_Tengah.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Tengah.private.md) 
+
+### #is_/same_as :: [Kalimantan_Tengah.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Tengah.personal.md) 
+
+### #is_/same_as :: [Kalimantan_Tengah.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Tengah.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Bangka-Belitung/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung|Bangka-Belitung]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.public|Bangka-Belitung.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.internal|Bangka-Belitung.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.protect|Bangka-Belitung.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.private|Bangka-Belitung.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.personal|Bangka-Belitung.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Bangka-Belitung.secret|Bangka-Belitung.secret]] 
+
+### #is_/same_as :: [Bangka-Belitung](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bangka-Belitung.md) 
+
+### #is_/same_as :: [Bangka-Belitung.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bangka-Belitung.public.md) 
+
+### #is_/same_as :: [Bangka-Belitung.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bangka-Belitung.internal.md) 
+
+### #is_/same_as :: [Bangka-Belitung.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bangka-Belitung.protect.md) 
+
+### #is_/same_as :: [Bangka-Belitung.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bangka-Belitung.private.md) 
+
+### #is_/same_as :: [Bangka-Belitung.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bangka-Belitung.personal.md) 
+
+### #is_/same_as :: [Bangka-Belitung.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bangka-Belitung.secret.md)
 

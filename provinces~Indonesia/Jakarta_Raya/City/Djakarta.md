@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - -6.14
 - 106.76
@@ -201,11 +201,21 @@ maxZoom: 18
 > Jakarta's main challenges include rapid urban growth, ecological breakdown, air pollution, gridlocked traffic, congestion, and flooding due to subsidence and water extraction (sea level rise is relative, not absolute). Part of North Jakarta is sinking up to 17 cm (6.7 inches) annually, meanwhile the southern part is relatively safe. This has made the northern part of the city more prone to flooding and one of the fastest-sinking capitals in the world. In response to these challenges, in August 2019, President Joko Widodo announced plans to move the capital from Jakarta to the planned city of Nusantara, in the province of East Kalimantan on the island of Borneo. The MPR approved the move on 18 January 2022. The Indonesian government is not abandoning Jakarta after announcing plans to move the country's capital, its planning minister said, pledging to spend US$40 billion, which is more than the cost to build Nusantara, to save the city in the next decade.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jakarta)
+
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/City/Djakarta|Djakarta]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/City/Djakarta.public|Djakarta.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/City/Djakarta.internal|Djakarta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/City/Djakarta.protect|Djakarta.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/City/Djakarta.private|Djakarta.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/City/Djakarta.personal|Djakarta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/City/Djakarta.secret|Djakarta.secret]] 
+
+### #is_/same_as :: [Djakarta](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Djakarta.md) 
+
+### #is_/same_as :: [Djakarta.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Djakarta.public.md) 
+
+### #is_/same_as :: [Djakarta.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Djakarta.internal.md) 
+
+### #is_/same_as :: [Djakarta.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Djakarta.protect.md) 
+
+### #is_/same_as :: [Djakarta.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Djakarta.private.md) 
+
+### #is_/same_as :: [Djakarta.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Djakarta.personal.md) 
+
+### #is_/same_as :: [Djakarta.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Djakarta.secret.md)
+

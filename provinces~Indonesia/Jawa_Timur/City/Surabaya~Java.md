@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/City/Surabaya~Java|Surabaya~Java]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/City/Surabaya~Java.public|Surabaya~Java.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/City/Surabaya~Java.internal|Surabaya~Java.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/City/Surabaya~Java.protect|Surabaya~Java.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/City/Surabaya~Java.private|Surabaya~Java.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/City/Surabaya~Java.personal|Surabaya~Java.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/City/Surabaya~Java.secret|Surabaya~Java.secret]] 
+
+### #is_/same_as :: [Surabaya~Java](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Timur/City/Surabaya~Java.md) 
+
+### #is_/same_as :: [Surabaya~Java.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Timur/City/Surabaya~Java.public.md) 
+
+### #is_/same_as :: [Surabaya~Java.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Timur/City/Surabaya~Java.internal.md) 
+
+### #is_/same_as :: [Surabaya~Java.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Timur/City/Surabaya~Java.protect.md) 
+
+### #is_/same_as :: [Surabaya~Java.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Timur/City/Surabaya~Java.private.md) 
+
+### #is_/same_as :: [Surabaya~Java.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Timur/City/Surabaya~Java.personal.md) 
+
+### #is_/same_as :: [Surabaya~Java.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Timur/City/Surabaya~Java.secret.md)
+

@@ -40,11 +40,18 @@ markerFolder: ./Jawa_Barat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Barat|Jawa_Barat]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Barat.public|Jawa_Barat.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Barat.internal|Jawa_Barat.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Barat.protect|Jawa_Barat.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Barat.private|Jawa_Barat.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Barat.personal|Jawa_Barat.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Barat.secret|Jawa_Barat.secret]] 
+
+### #is_/same_as :: [Jawa_Barat](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Barat.md) 
+
+### #is_/same_as :: [Jawa_Barat.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Barat.public.md) 
+
+### #is_/same_as :: [Jawa_Barat.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Barat.internal.md) 
+
+### #is_/same_as :: [Jawa_Barat.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Barat.protect.md) 
+
+### #is_/same_as :: [Jawa_Barat.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Barat.private.md) 
+
+### #is_/same_as :: [Jawa_Barat.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Barat.personal.md) 
+
+### #is_/same_as :: [Jawa_Barat.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Barat.secret.md)
 

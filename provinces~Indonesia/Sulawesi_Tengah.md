@@ -40,11 +40,18 @@ markerFolder: ./Sulawesi_Tengah/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tengah|Sulawesi_Tengah]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tengah.public|Sulawesi_Tengah.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tengah.internal|Sulawesi_Tengah.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tengah.protect|Sulawesi_Tengah.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tengah.private|Sulawesi_Tengah.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tengah.personal|Sulawesi_Tengah.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Tengah.secret|Sulawesi_Tengah.secret]] 
+
+### #is_/same_as :: [Sulawesi_Tengah](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Tengah.md) 
+
+### #is_/same_as :: [Sulawesi_Tengah.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Tengah.public.md) 
+
+### #is_/same_as :: [Sulawesi_Tengah.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Tengah.internal.md) 
+
+### #is_/same_as :: [Sulawesi_Tengah.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Tengah.protect.md) 
+
+### #is_/same_as :: [Sulawesi_Tengah.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Tengah.private.md) 
+
+### #is_/same_as :: [Sulawesi_Tengah.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Tengah.personal.md) 
+
+### #is_/same_as :: [Sulawesi_Tengah.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Tengah.secret.md)
 

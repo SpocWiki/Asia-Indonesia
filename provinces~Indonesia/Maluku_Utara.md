@@ -40,11 +40,18 @@ markerFolder: ./Maluku_Utara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Maluku_Utara|Maluku_Utara]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Maluku_Utara.public|Maluku_Utara.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Maluku_Utara.internal|Maluku_Utara.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Maluku_Utara.protect|Maluku_Utara.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Maluku_Utara.private|Maluku_Utara.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Maluku_Utara.personal|Maluku_Utara.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Maluku_Utara.secret|Maluku_Utara.secret]] 
+
+### #is_/same_as :: [Maluku_Utara](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara.md) 
+
+### #is_/same_as :: [Maluku_Utara.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara.public.md) 
+
+### #is_/same_as :: [Maluku_Utara.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara.internal.md) 
+
+### #is_/same_as :: [Maluku_Utara.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara.protect.md) 
+
+### #is_/same_as :: [Maluku_Utara.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara.private.md) 
+
+### #is_/same_as :: [Maluku_Utara.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara.personal.md) 
+
+### #is_/same_as :: [Maluku_Utara.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara.secret.md)
 

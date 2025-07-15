@@ -126,10 +126,4 @@ Capital :: [[Djakarta]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Indonesia 1|Indonesia]]  
-- [[../../../../_internal/geo/Continent/Oceania/Indonesia.internal|Indonesia.internal]]  
-- [[../../../../_protect/geo/Continent/Oceania/Indonesia.protect|Indonesia.protect]] 
-- [[../../../../_private/geo/Continent/Oceania/Indonesia.private|Indonesia.private]] 
-- [[../../../../_personal/geo/Continent/Oceania/Indonesia.personal|Indonesia.personal]] 
-- [[../../../../_secret/geo/Continent/Oceania/Indonesia.secret|Indonesia.secret]] 
+

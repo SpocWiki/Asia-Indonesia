@@ -40,11 +40,18 @@ markerFolder: ./Jawa_Timur/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Timur|Jawa_Timur]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Timur.public|Jawa_Timur.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Timur.internal|Jawa_Timur.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Timur.protect|Jawa_Timur.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Timur.private|Jawa_Timur.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Timur.personal|Jawa_Timur.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Jawa_Timur.secret|Jawa_Timur.secret]] 
+
+### #is_/same_as :: [Jawa_Timur](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Timur.md) 
+
+### #is_/same_as :: [Jawa_Timur.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Timur.public.md) 
+
+### #is_/same_as :: [Jawa_Timur.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Timur.internal.md) 
+
+### #is_/same_as :: [Jawa_Timur.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Timur.protect.md) 
+
+### #is_/same_as :: [Jawa_Timur.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Timur.private.md) 
+
+### #is_/same_as :: [Jawa_Timur.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Timur.personal.md) 
+
+### #is_/same_as :: [Jawa_Timur.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Timur.secret.md)
 

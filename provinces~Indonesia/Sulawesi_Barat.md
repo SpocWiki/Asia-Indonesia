@@ -40,11 +40,18 @@ markerFolder: ./Sulawesi_Barat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Barat|Sulawesi_Barat]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Barat.public|Sulawesi_Barat.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Barat.internal|Sulawesi_Barat.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Barat.protect|Sulawesi_Barat.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Barat.private|Sulawesi_Barat.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Barat.personal|Sulawesi_Barat.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Barat.secret|Sulawesi_Barat.secret]] 
+
+### #is_/same_as :: [Sulawesi_Barat](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Barat.md) 
+
+### #is_/same_as :: [Sulawesi_Barat.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Barat.public.md) 
+
+### #is_/same_as :: [Sulawesi_Barat.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Barat.internal.md) 
+
+### #is_/same_as :: [Sulawesi_Barat.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Barat.protect.md) 
+
+### #is_/same_as :: [Sulawesi_Barat.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Barat.private.md) 
+
+### #is_/same_as :: [Sulawesi_Barat.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Barat.personal.md) 
+
+### #is_/same_as :: [Sulawesi_Barat.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Barat.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Kalimantan_Selatan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Selatan|Kalimantan_Selatan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Selatan.public|Kalimantan_Selatan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Selatan.internal|Kalimantan_Selatan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Selatan.protect|Kalimantan_Selatan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Selatan.private|Kalimantan_Selatan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Selatan.personal|Kalimantan_Selatan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Kalimantan_Selatan.secret|Kalimantan_Selatan.secret]] 
+
+### #is_/same_as :: [Kalimantan_Selatan](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Selatan.md) 
+
+### #is_/same_as :: [Kalimantan_Selatan.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Selatan.public.md) 
+
+### #is_/same_as :: [Kalimantan_Selatan.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Selatan.internal.md) 
+
+### #is_/same_as :: [Kalimantan_Selatan.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Selatan.protect.md) 
+
+### #is_/same_as :: [Kalimantan_Selatan.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Selatan.private.md) 
+
+### #is_/same_as :: [Kalimantan_Selatan.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Selatan.personal.md) 
+
+### #is_/same_as :: [Kalimantan_Selatan.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Selatan.secret.md)
 

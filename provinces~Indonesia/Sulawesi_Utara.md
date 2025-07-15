@@ -40,11 +40,18 @@ markerFolder: ./Sulawesi_Utara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Utara|Sulawesi_Utara]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Utara.public|Sulawesi_Utara.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Utara.internal|Sulawesi_Utara.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Utara.protect|Sulawesi_Utara.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Utara.private|Sulawesi_Utara.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Utara.personal|Sulawesi_Utara.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Sulawesi_Utara.secret|Sulawesi_Utara.secret]] 
+
+### #is_/same_as :: [Sulawesi_Utara](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Utara.md) 
+
+### #is_/same_as :: [Sulawesi_Utara.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Utara.public.md) 
+
+### #is_/same_as :: [Sulawesi_Utara.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Utara.internal.md) 
+
+### #is_/same_as :: [Sulawesi_Utara.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Utara.protect.md) 
+
+### #is_/same_as :: [Sulawesi_Utara.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Utara.private.md) 
+
+### #is_/same_as :: [Sulawesi_Utara.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Utara.personal.md) 
+
+### #is_/same_as :: [Sulawesi_Utara.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Utara.secret.md)
 

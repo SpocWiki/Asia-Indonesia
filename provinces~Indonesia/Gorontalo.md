@@ -40,11 +40,18 @@ markerFolder: ./Gorontalo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Gorontalo|Gorontalo]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Gorontalo.public|Gorontalo.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Gorontalo.internal|Gorontalo.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Gorontalo.protect|Gorontalo.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Gorontalo.private|Gorontalo.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Gorontalo.personal|Gorontalo.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Gorontalo.secret|Gorontalo.secret]] 
+
+### #is_/same_as :: [Gorontalo](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Gorontalo.md) 
+
+### #is_/same_as :: [Gorontalo.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Gorontalo.public.md) 
+
+### #is_/same_as :: [Gorontalo.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Gorontalo.internal.md) 
+
+### #is_/same_as :: [Gorontalo.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Gorontalo.protect.md) 
+
+### #is_/same_as :: [Gorontalo.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Gorontalo.private.md) 
+
+### #is_/same_as :: [Gorontalo.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Gorontalo.personal.md) 
+
+### #is_/same_as :: [Gorontalo.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Gorontalo.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Yogyakarta/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta|Yogyakarta]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.public|Yogyakarta.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.internal|Yogyakarta.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.protect|Yogyakarta.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.private|Yogyakarta.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.personal|Yogyakarta.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South~East/Indonesia/Counties/Yogyakarta.secret|Yogyakarta.secret]] 
+
+### #is_/same_as :: [Yogyakarta](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta.md) 
+
+### #is_/same_as :: [Yogyakarta.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta.public.md) 
+
+### #is_/same_as :: [Yogyakarta.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta.internal.md) 
+
+### #is_/same_as :: [Yogyakarta.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta.protect.md) 
+
+### #is_/same_as :: [Yogyakarta.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta.private.md) 
+
+### #is_/same_as :: [Yogyakarta.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta.personal.md) 
+
+### #is_/same_as :: [Yogyakarta.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta.secret.md)
 
