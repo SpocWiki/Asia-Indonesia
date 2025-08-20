@@ -1,30 +1,29 @@
 ---
-location: [ -6.9 , 107.6 ] 
+location:
+  - -6.9
+  - 107.6
 type: geo-Region
 title: Jawa_Barat
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Jawa_Barat
-
+  - Jawa_Barat
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Jawa_Barat

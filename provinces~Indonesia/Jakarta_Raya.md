@@ -1,30 +1,29 @@
 ---
-location: [ -6.2 , 106.8 ] 
+location:
+  - -6.2
+  - 106.8
 type: geo-Region
 title: Jakarta_Raya
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Jakarta_Raya
-
+  - Jakarta_Raya
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Jakarta_Raya
