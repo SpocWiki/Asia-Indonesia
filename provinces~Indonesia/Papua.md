@@ -26,7 +26,9 @@ publishDate:
 expiryDate:
 ---
 
-# Papua
+# [[Papua]] 
+
+## #has_/map  
 
 ```leaflet
 id: Papua

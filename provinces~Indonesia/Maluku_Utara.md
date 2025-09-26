@@ -26,7 +26,9 @@ publishDate:
 expiryDate:
 ---
 
-# Maluku_Utara
+# [[Maluku_Utara]] 
+
+## #has_/map 
 
 ```leaflet
 id: Maluku_Utara
