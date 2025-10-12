@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Maluku_Utara
+  - North Molucca
+has_id_wikidata:
 location:
   - -1.8
   - 124.8
@@ -12,8 +16,6 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Maluku_Utara
 Languages:
   - de
 cssclasses:
@@ -33,6 +35,7 @@ expiryDate:
 ```leaflet
 id: Maluku_Utara
 zoomFeatures: true 
+defaultZoom: 7
 minZoom: 2 
 maxZoom: 18
 geojsonFolder: ./Maluku_Utara/

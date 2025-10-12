@@ -43,8 +43,10 @@ zoomFeatures: true
 minZoom: 2 
 defaultZoom: 7
 maxZoom: 18
-geojsonFolder: ./Maluku/
-markerFolder: ./Maluku/
+geojsonFolder: ./Maluku_Islands/
+markerFolder: ./Maluku_Islands/
+coordinates: [[Maluku_Islands]] 
+markerFile: [[Maluku_Islands]] 
 ```
 
 ## #has_/text_of_/abstract 
