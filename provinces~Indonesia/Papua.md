@@ -34,6 +34,7 @@ expiryDate:
 id: Papua
 zoomFeatures: true 
 minZoom: 2 
+defaultZoom: 6 
 maxZoom: 18
 geojsonFolder: ./Papua/
 markerFolder: ./Papua/
