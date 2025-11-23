@@ -83,7 +83,7 @@ Dewey_Decimal_Classification: 2--5981
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Sumatra,3492|WD~Sumatra,3492]]  
 
-## #has_/map 
+## #has_/map  
 
 ```leaflet
 id: Sumatra
