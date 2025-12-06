@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Nusa_Tenggara_Timur
+  - East Nusa Tenggara
 location:
   - -8.5
   - 120.6
@@ -12,8 +15,6 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Nusa_Tenggara_Timur
 Languages:
   - de
 cssclasses:
@@ -26,7 +27,9 @@ publishDate:
 expiryDate:
 ---
 
-# Nusa_Tenggara_Timur
+# [[Nusa_Tenggara_Timur]]
+
+## #has_/map 
 
 ```leaflet
 id: Nusa_Tenggara_Timur

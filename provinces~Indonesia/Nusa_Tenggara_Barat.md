@@ -14,6 +14,7 @@ tags:
   - geo/Country/Region
 aliases:
   - Nusa_Tenggara_Barat
+  - West Nusa Tenggara
 Languages:
   - de
 cssclasses:
@@ -26,7 +27,7 @@ publishDate:
 expiryDate:
 ---
 
-# Nusa_Tenggara_Barat
+# [[Nusa_Tenggara_Barat]]
 
 ```leaflet
 id: Nusa_Tenggara_Barat
