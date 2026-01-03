@@ -40,17 +40,17 @@ markerFolder: ./Tutong/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tutong](/_Standards/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Tutong.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Tutong|Tutong]] 
 
-### #is_/same_as :: [Tutong.public](/_public/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Tutong.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Tutong.public|Tutong.public]] 
 
-### #is_/same_as :: [Tutong.internal](/_internal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Tutong.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Tutong.internal|Tutong.internal]] 
 
-### #is_/same_as :: [Tutong.protect](/_protect/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Tutong.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Tutong.protect|Tutong.protect]] 
 
-### #is_/same_as :: [Tutong.private](/_private/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Tutong.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Tutong.private|Tutong.private]] 
 
-### #is_/same_as :: [Tutong.personal](/_personal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Tutong.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Tutong.personal|Tutong.personal]] 
 
-### #is_/same_as :: [Tutong.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Tutong.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Tutong.secret|Tutong.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Belait/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Belait](/_Standards/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Belait|Belait]] 
 
-### #is_/same_as :: [Belait.public](/_public/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Belait.public|Belait.public]] 
 
-### #is_/same_as :: [Belait.internal](/_internal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Belait.internal|Belait.internal]] 
 
-### #is_/same_as :: [Belait.protect](/_protect/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Belait.protect|Belait.protect]] 
 
-### #is_/same_as :: [Belait.private](/_private/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Belait.private|Belait.private]] 
 
-### #is_/same_as :: [Belait.personal](/_personal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Belait.personal|Belait.personal]] 
 
-### #is_/same_as :: [Belait.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Belait.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Belait.secret|Belait.secret]] 
 

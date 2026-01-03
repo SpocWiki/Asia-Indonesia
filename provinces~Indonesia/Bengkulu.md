@@ -40,17 +40,17 @@ markerFolder: ./Bengkulu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bengkulu](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu|Bengkulu]] 
 
-### #is_/same_as :: [Bengkulu.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu.public|Bengkulu.public]] 
 
-### #is_/same_as :: [Bengkulu.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu.internal|Bengkulu.internal]] 
 
-### #is_/same_as :: [Bengkulu.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu.protect|Bengkulu.protect]] 
 
-### #is_/same_as :: [Bengkulu.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu.private|Bengkulu.private]] 
 
-### #is_/same_as :: [Bengkulu.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu.personal|Bengkulu.personal]] 
 
-### #is_/same_as :: [Bengkulu.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Bengkulu.secret|Bengkulu.secret]] 
 

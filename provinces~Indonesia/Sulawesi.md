@@ -190,3 +190,20 @@ ISO_3166_2_code: ID-SL
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sulawesi) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi|Sulawesi]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi.public|Sulawesi.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi.internal|Sulawesi.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi.protect|Sulawesi.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi.private|Sulawesi.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi.personal|Sulawesi.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi.secret|Sulawesi.secret]] 
+

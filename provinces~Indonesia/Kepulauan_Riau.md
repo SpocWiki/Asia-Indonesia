@@ -40,17 +40,17 @@ markerFolder: ./Kepulauan_Riau/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kepulauan_Riau](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kepulauan_Riau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kepulauan_Riau|Kepulauan_Riau]] 
 
-### #is_/same_as :: [Kepulauan_Riau.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kepulauan_Riau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kepulauan_Riau.public|Kepulauan_Riau.public]] 
 
-### #is_/same_as :: [Kepulauan_Riau.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kepulauan_Riau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kepulauan_Riau.internal|Kepulauan_Riau.internal]] 
 
-### #is_/same_as :: [Kepulauan_Riau.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kepulauan_Riau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kepulauan_Riau.protect|Kepulauan_Riau.protect]] 
 
-### #is_/same_as :: [Kepulauan_Riau.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kepulauan_Riau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kepulauan_Riau.private|Kepulauan_Riau.private]] 
 
-### #is_/same_as :: [Kepulauan_Riau.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kepulauan_Riau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kepulauan_Riau.personal|Kepulauan_Riau.personal]] 
 
-### #is_/same_as :: [Kepulauan_Riau.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kepulauan_Riau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kepulauan_Riau.secret|Kepulauan_Riau.secret]] 
 

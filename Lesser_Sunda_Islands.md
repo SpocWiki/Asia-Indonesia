@@ -148,3 +148,20 @@ Commons_category: Lesser Sunda Islands
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lesser%20Sunda%20Islands) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Lesser_Sunda_Islands|Lesser_Sunda_Islands]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Lesser_Sunda_Islands.public|Lesser_Sunda_Islands.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Lesser_Sunda_Islands.internal|Lesser_Sunda_Islands.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Lesser_Sunda_Islands.protect|Lesser_Sunda_Islands.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Lesser_Sunda_Islands.private|Lesser_Sunda_Islands.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Lesser_Sunda_Islands.personal|Lesser_Sunda_Islands.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Lesser_Sunda_Islands.secret|Lesser_Sunda_Islands.secret]] 
+

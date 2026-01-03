@@ -39,3 +39,20 @@ native_label:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sunda%20Strait) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Sunda_Strait|Sunda_Strait]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Sunda_Strait.public|Sunda_Strait.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Sunda_Strait.internal|Sunda_Strait.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Sunda_Strait.protect|Sunda_Strait.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Sunda_Strait.private|Sunda_Strait.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Sunda_Strait.personal|Sunda_Strait.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Sunda_Strait.secret|Sunda_Strait.secret]] 
+

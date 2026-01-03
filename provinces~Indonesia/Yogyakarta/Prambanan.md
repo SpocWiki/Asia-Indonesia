@@ -41,3 +41,21 @@ official_website: http://www.borobudurpark.com/prambanan.php
 > The temple compound, a UNESCO World Heritage Site, is the largest Hindu temple site in Indonesia and the second-largest in Southeast Asia after Angkor Wat. It is characterized by its tall and pointed architecture, typical of Hindu architecture, and by the towering 47-metre-high (154 ft) central building inside a large complex of individual temples. Prambanan temple compounds originally consisted of 240 temple structures, which represented the grandeur of ancient Java's Hindu art and architecture, and is also considered as a masterpiece of the classical period in Indonesia. Prambanan attracts many visitors from around the world.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Prambanan)
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta/Prambanan|Prambanan]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta/Prambanan.public|Prambanan.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta/Prambanan.internal|Prambanan.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta/Prambanan.protect|Prambanan.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta/Prambanan.private|Prambanan.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta/Prambanan.personal|Prambanan.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta/Prambanan.secret|Prambanan.secret]] 
+

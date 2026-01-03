@@ -61,19 +61,20 @@ markerFile: [[Maluku_Islands]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Maluku%20Islands)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maluku](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Islands|Maluku_Islands]] 
 
-### #is_/same_as :: [Maluku.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Islands.public|Maluku_Islands.public]] 
 
-### #is_/same_as :: [Maluku.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Islands.internal|Maluku_Islands.internal]] 
 
-### #is_/same_as :: [Maluku.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Islands.protect|Maluku_Islands.protect]] 
 
-### #is_/same_as :: [Maluku.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Islands.private|Maluku_Islands.private]] 
 
-### #is_/same_as :: [Maluku.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Islands.personal|Maluku_Islands.personal]] 
 
-### #is_/same_as :: [Maluku.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Islands.secret|Maluku_Islands.secret]] 
 

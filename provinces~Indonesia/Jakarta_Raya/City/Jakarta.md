@@ -215,17 +215,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Djakarta](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Djakarta.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Jakarta|Jakarta]] 
 
-### #is_/same_as :: [Djakarta.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Djakarta.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Jakarta.public|Jakarta.public]] 
 
-### #is_/same_as :: [Djakarta.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Djakarta.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Jakarta.internal|Jakarta.internal]] 
 
-### #is_/same_as :: [Djakarta.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Djakarta.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Jakarta.protect|Jakarta.protect]] 
 
-### #is_/same_as :: [Djakarta.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Djakarta.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Jakarta.private|Jakarta.private]] 
 
-### #is_/same_as :: [Djakarta.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Djakarta.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Jakarta.personal|Jakarta.personal]] 
 
-### #is_/same_as :: [Djakarta.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Djakarta.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jakarta_Raya/City/Jakarta.secret|Jakarta.secret]] 
 

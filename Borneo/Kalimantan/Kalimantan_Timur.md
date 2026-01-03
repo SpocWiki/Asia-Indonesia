@@ -40,17 +40,17 @@ markerFolder: ./Kalimantan_Timur/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kalimantan_Timur](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Timur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Kalimantan/Kalimantan_Timur|Kalimantan_Timur]] 
 
-### #is_/same_as :: [Kalimantan_Timur.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Timur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Kalimantan/Kalimantan_Timur.public|Kalimantan_Timur.public]] 
 
-### #is_/same_as :: [Kalimantan_Timur.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Timur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Kalimantan/Kalimantan_Timur.internal|Kalimantan_Timur.internal]] 
 
-### #is_/same_as :: [Kalimantan_Timur.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Timur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Kalimantan/Kalimantan_Timur.protect|Kalimantan_Timur.protect]] 
 
-### #is_/same_as :: [Kalimantan_Timur.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Timur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Kalimantan/Kalimantan_Timur.private|Kalimantan_Timur.private]] 
 
-### #is_/same_as :: [Kalimantan_Timur.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Timur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Kalimantan/Kalimantan_Timur.personal|Kalimantan_Timur.personal]] 
 
-### #is_/same_as :: [Kalimantan_Timur.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Kalimantan_Timur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Kalimantan/Kalimantan_Timur.secret|Kalimantan_Timur.secret]] 
 

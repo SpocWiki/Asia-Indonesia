@@ -43,17 +43,17 @@ markerFolder: ./Nusa_Tenggara_Timur/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nusa_Tenggara_Timur](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Nusa_Tenggara_Timur.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Nusa_Tenggara_Timur|Nusa_Tenggara_Timur]] 
 
-### #is_/same_as :: [Nusa_Tenggara_Timur.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Nusa_Tenggara_Timur.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Nusa_Tenggara_Timur.public|Nusa_Tenggara_Timur.public]] 
 
-### #is_/same_as :: [Nusa_Tenggara_Timur.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Nusa_Tenggara_Timur.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Nusa_Tenggara_Timur.internal|Nusa_Tenggara_Timur.internal]] 
 
-### #is_/same_as :: [Nusa_Tenggara_Timur.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Nusa_Tenggara_Timur.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Nusa_Tenggara_Timur.protect|Nusa_Tenggara_Timur.protect]] 
 
-### #is_/same_as :: [Nusa_Tenggara_Timur.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Nusa_Tenggara_Timur.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Nusa_Tenggara_Timur.private|Nusa_Tenggara_Timur.private]] 
 
-### #is_/same_as :: [Nusa_Tenggara_Timur.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Nusa_Tenggara_Timur.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Nusa_Tenggara_Timur.personal|Nusa_Tenggara_Timur.personal]] 
 
-### #is_/same_as :: [Nusa_Tenggara_Timur.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Nusa_Tenggara_Timur.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Nusa_Tenggara_Timur.secret|Nusa_Tenggara_Timur.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Sumatera_Barat/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sumatera_Barat](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Barat.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Barat|Sumatera_Barat]] 
 
-### #is_/same_as :: [Sumatera_Barat.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Barat.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Barat.public|Sumatera_Barat.public]] 
 
-### #is_/same_as :: [Sumatera_Barat.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Barat.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Barat.internal|Sumatera_Barat.internal]] 
 
-### #is_/same_as :: [Sumatera_Barat.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Barat.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Barat.protect|Sumatera_Barat.protect]] 
 
-### #is_/same_as :: [Sumatera_Barat.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Barat.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Barat.private|Sumatera_Barat.private]] 
 
-### #is_/same_as :: [Sumatera_Barat.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Barat.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Barat.personal|Sumatera_Barat.personal]] 
 
-### #is_/same_as :: [Sumatera_Barat.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Barat.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Barat.secret|Sumatera_Barat.secret]] 
 

@@ -108,3 +108,20 @@ dissolved_abolished_or_demolished_date: 1377-01-01T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Srivijaya) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/0650-Srivijaya+1025|0650-Srivijaya+1025]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/0650-Srivijaya+1025.public|0650-Srivijaya+1025.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/0650-Srivijaya+1025.internal|0650-Srivijaya+1025.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/0650-Srivijaya+1025.protect|0650-Srivijaya+1025.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/0650-Srivijaya+1025.private|0650-Srivijaya+1025.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/0650-Srivijaya+1025.personal|0650-Srivijaya+1025.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/0650-Srivijaya+1025.secret|0650-Srivijaya+1025.secret]] 
+

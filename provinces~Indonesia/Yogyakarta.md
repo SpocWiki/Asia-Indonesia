@@ -40,17 +40,17 @@ markerFolder: ./Yogyakarta/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yogyakarta](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta|Yogyakarta]] 
 
-### #is_/same_as :: [Yogyakarta.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta.public|Yogyakarta.public]] 
 
-### #is_/same_as :: [Yogyakarta.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta.internal|Yogyakarta.internal]] 
 
-### #is_/same_as :: [Yogyakarta.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta.protect|Yogyakarta.protect]] 
 
-### #is_/same_as :: [Yogyakarta.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta.private|Yogyakarta.private]] 
 
-### #is_/same_as :: [Yogyakarta.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta.personal|Yogyakarta.personal]] 
 
-### #is_/same_as :: [Yogyakarta.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Yogyakarta.secret|Yogyakarta.secret]] 
 

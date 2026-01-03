@@ -40,17 +40,17 @@ markerFolder: ./Irian_Jaya_Barat/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Irian_Jaya_Barat](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Irian_Jaya_Barat.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Irian_Jaya_Barat|Irian_Jaya_Barat]] 
 
-### #is_/same_as :: [Irian_Jaya_Barat.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Irian_Jaya_Barat.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Irian_Jaya_Barat.public|Irian_Jaya_Barat.public]] 
 
-### #is_/same_as :: [Irian_Jaya_Barat.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Irian_Jaya_Barat.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Irian_Jaya_Barat.internal|Irian_Jaya_Barat.internal]] 
 
-### #is_/same_as :: [Irian_Jaya_Barat.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Irian_Jaya_Barat.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Irian_Jaya_Barat.protect|Irian_Jaya_Barat.protect]] 
 
-### #is_/same_as :: [Irian_Jaya_Barat.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Irian_Jaya_Barat.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Irian_Jaya_Barat.private|Irian_Jaya_Barat.private]] 
 
-### #is_/same_as :: [Irian_Jaya_Barat.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Irian_Jaya_Barat.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Irian_Jaya_Barat.personal|Irian_Jaya_Barat.personal]] 
 
-### #is_/same_as :: [Irian_Jaya_Barat.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Irian_Jaya_Barat.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Irian_Jaya_Barat.secret|Irian_Jaya_Barat.secret]] 
 

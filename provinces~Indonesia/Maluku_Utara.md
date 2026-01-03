@@ -45,17 +45,17 @@ markerFolder: ./Maluku_Utara/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maluku_Utara](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara|Maluku_Utara]] 
 
-### #is_/same_as :: [Maluku_Utara.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara.public|Maluku_Utara.public]] 
 
-### #is_/same_as :: [Maluku_Utara.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara.internal|Maluku_Utara.internal]] 
 
-### #is_/same_as :: [Maluku_Utara.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara.protect|Maluku_Utara.protect]] 
 
-### #is_/same_as :: [Maluku_Utara.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara.private|Maluku_Utara.private]] 
 
-### #is_/same_as :: [Maluku_Utara.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara.personal|Maluku_Utara.personal]] 
 
-### #is_/same_as :: [Maluku_Utara.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara.secret|Maluku_Utara.secret]] 
 

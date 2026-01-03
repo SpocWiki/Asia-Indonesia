@@ -26,3 +26,20 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Locatie%20
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Molucca%20Sea) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara/Molucca_Sea|Molucca_Sea]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara/Molucca_Sea.public|Molucca_Sea.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara/Molucca_Sea.internal|Molucca_Sea.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara/Molucca_Sea.protect|Molucca_Sea.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara/Molucca_Sea.private|Molucca_Sea.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara/Molucca_Sea.personal|Molucca_Sea.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Maluku_Utara/Molucca_Sea.secret|Molucca_Sea.secret]] 
+

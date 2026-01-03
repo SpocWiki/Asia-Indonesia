@@ -139,3 +139,20 @@ date_of_birth: 1921-06-08T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Suharto) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/Suharto|Suharto]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/Suharto.public|Suharto.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/Suharto.internal|Suharto.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/Suharto.protect|Suharto.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/Suharto.private|Suharto.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/Suharto.personal|Suharto.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/Suharto.secret|Suharto.secret]] 
+

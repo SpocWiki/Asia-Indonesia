@@ -44,3 +44,20 @@ Commons_category: Tropical rainforest heritage of Sumatra
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tropical%20Rainforest%20Heritage%20of%20Sumatra) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Tropical_Rainforest_Heritage_of_Sumatra|Tropical_Rainforest_Heritage_of_Sumatra]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Tropical_Rainforest_Heritage_of_Sumatra.public|Tropical_Rainforest_Heritage_of_Sumatra.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Tropical_Rainforest_Heritage_of_Sumatra.internal|Tropical_Rainforest_Heritage_of_Sumatra.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Tropical_Rainforest_Heritage_of_Sumatra.protect|Tropical_Rainforest_Heritage_of_Sumatra.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Tropical_Rainforest_Heritage_of_Sumatra.private|Tropical_Rainforest_Heritage_of_Sumatra.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Tropical_Rainforest_Heritage_of_Sumatra.personal|Tropical_Rainforest_Heritage_of_Sumatra.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Tropical_Rainforest_Heritage_of_Sumatra.secret|Tropical_Rainforest_Heritage_of_Sumatra.secret]] 
+

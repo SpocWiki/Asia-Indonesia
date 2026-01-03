@@ -40,17 +40,17 @@ markerFolder: ./Sumatera_Utara/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sumatera_Utara](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Utara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Utara|Sumatera_Utara]] 
 
-### #is_/same_as :: [Sumatera_Utara.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Utara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Utara.public|Sumatera_Utara.public]] 
 
-### #is_/same_as :: [Sumatera_Utara.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Utara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Utara.internal|Sumatera_Utara.internal]] 
 
-### #is_/same_as :: [Sumatera_Utara.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Utara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Utara.protect|Sumatera_Utara.protect]] 
 
-### #is_/same_as :: [Sumatera_Utara.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Utara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Utara.private|Sumatera_Utara.private]] 
 
-### #is_/same_as :: [Sumatera_Utara.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Utara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Utara.personal|Sumatera_Utara.personal]] 
 
-### #is_/same_as :: [Sumatera_Utara.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Utara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Utara.secret|Sumatera_Utara.secret]] 
 

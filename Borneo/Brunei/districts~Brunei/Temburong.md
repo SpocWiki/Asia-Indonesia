@@ -40,17 +40,17 @@ markerFolder: ./Temburong/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Temburong](/_Standards/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Temburong|Temburong]] 
 
-### #is_/same_as :: [Temburong.public](/_public/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Temburong.public|Temburong.public]] 
 
-### #is_/same_as :: [Temburong.internal](/_internal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Temburong.internal|Temburong.internal]] 
 
-### #is_/same_as :: [Temburong.protect](/_protect/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Temburong.protect|Temburong.protect]] 
 
-### #is_/same_as :: [Temburong.private](/_private/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Temburong.private|Temburong.private]] 
 
-### #is_/same_as :: [Temburong.personal](/_personal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Temburong.personal|Temburong.personal]] 
 
-### #is_/same_as :: [Temburong.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Temburong.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Temburong.secret|Temburong.secret]] 
 

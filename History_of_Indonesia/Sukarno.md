@@ -131,3 +131,20 @@ name_in_native_language: Jend. Wahyu Adi Saputro
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sukarno) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/Sukarno|Sukarno]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/Sukarno.public|Sukarno.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/Sukarno.internal|Sukarno.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/Sukarno.protect|Sukarno.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/Sukarno.private|Sukarno.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/Sukarno.personal|Sukarno.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/Sukarno.secret|Sukarno.secret]] 
+

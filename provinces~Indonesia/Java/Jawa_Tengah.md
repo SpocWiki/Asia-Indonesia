@@ -40,17 +40,17 @@ markerFolder: ./Jawa_Tengah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jawa_Tengah](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Tengah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Java/Jawa_Tengah|Jawa_Tengah]] 
 
-### #is_/same_as :: [Jawa_Tengah.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Tengah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Java/Jawa_Tengah.public|Jawa_Tengah.public]] 
 
-### #is_/same_as :: [Jawa_Tengah.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Tengah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Java/Jawa_Tengah.internal|Jawa_Tengah.internal]] 
 
-### #is_/same_as :: [Jawa_Tengah.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Tengah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Java/Jawa_Tengah.protect|Jawa_Tengah.protect]] 
 
-### #is_/same_as :: [Jawa_Tengah.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Tengah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Java/Jawa_Tengah.private|Jawa_Tengah.private]] 
 
-### #is_/same_as :: [Jawa_Tengah.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Tengah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Java/Jawa_Tengah.personal|Jawa_Tengah.personal]] 
 
-### #is_/same_as :: [Jawa_Tengah.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Tengah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Java/Jawa_Tengah.secret|Jawa_Tengah.secret]] 
 

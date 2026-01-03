@@ -45,3 +45,20 @@ start_time: 1945-08-17T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Indonesian%20National%20Revolution) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/1945-Indonesian_National_Revolution-1949|1945-Indonesian_National_Revolution-1949]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/1945-Indonesian_National_Revolution-1949.public|1945-Indonesian_National_Revolution-1949.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/1945-Indonesian_National_Revolution-1949.internal|1945-Indonesian_National_Revolution-1949.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/1945-Indonesian_National_Revolution-1949.protect|1945-Indonesian_National_Revolution-1949.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/1945-Indonesian_National_Revolution-1949.private|1945-Indonesian_National_Revolution-1949.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/1945-Indonesian_National_Revolution-1949.personal|1945-Indonesian_National_Revolution-1949.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia/1945-Indonesian_National_Revolution-1949.secret|1945-Indonesian_National_Revolution-1949.secret]] 
+

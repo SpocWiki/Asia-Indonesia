@@ -42,17 +42,17 @@ markerFolder: ./Papua_Barat/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Papua_Barat](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Papua_Barat.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Papua_Barat|Papua_Barat]] 
 
-### #is_/same_as :: [Papua_Barat.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Papua_Barat.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Papua_Barat.public|Papua_Barat.public]] 
 
-### #is_/same_as :: [Papua_Barat.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Papua_Barat.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Papua_Barat.internal|Papua_Barat.internal]] 
 
-### #is_/same_as :: [Papua_Barat.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Papua_Barat.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Papua_Barat.protect|Papua_Barat.protect]] 
 
-### #is_/same_as :: [Papua_Barat.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Papua_Barat.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Papua_Barat.private|Papua_Barat.private]] 
 
-### #is_/same_as :: [Papua_Barat.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Papua_Barat.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Papua_Barat.personal|Papua_Barat.personal]] 
 
-### #is_/same_as :: [Papua_Barat.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Papua_Barat.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Papua_Barat.secret|Papua_Barat.secret]] 
 

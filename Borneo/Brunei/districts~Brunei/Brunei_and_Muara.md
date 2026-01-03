@@ -40,17 +40,17 @@ markerFolder: ./Brunei_and_Muara/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brunei_and_Muara](/_Standards/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Brunei_and_Muara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Brunei_and_Muara|Brunei_and_Muara]] 
 
-### #is_/same_as :: [Brunei_and_Muara.public](/_public/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Brunei_and_Muara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Brunei_and_Muara.public|Brunei_and_Muara.public]] 
 
-### #is_/same_as :: [Brunei_and_Muara.internal](/_internal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Brunei_and_Muara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Brunei_and_Muara.internal|Brunei_and_Muara.internal]] 
 
-### #is_/same_as :: [Brunei_and_Muara.protect](/_protect/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Brunei_and_Muara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Brunei_and_Muara.protect|Brunei_and_Muara.protect]] 
 
-### #is_/same_as :: [Brunei_and_Muara.private](/_private/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Brunei_and_Muara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Brunei_and_Muara.private|Brunei_and_Muara.private]] 
 
-### #is_/same_as :: [Brunei_and_Muara.personal](/_personal/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Brunei_and_Muara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Brunei_and_Muara.personal|Brunei_and_Muara.personal]] 
 
-### #is_/same_as :: [Brunei_and_Muara.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei/districts~Brunei/Brunei_and_Muara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei/districts~Brunei/Brunei_and_Muara.secret|Brunei_and_Muara.secret]] 
 

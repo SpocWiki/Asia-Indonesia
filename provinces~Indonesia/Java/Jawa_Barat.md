@@ -40,17 +40,17 @@ markerFolder: ./Jawa_Barat/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jawa_Barat](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Barat.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Java/Jawa_Barat|Jawa_Barat]] 
 
-### #is_/same_as :: [Jawa_Barat.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Barat.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Java/Jawa_Barat.public|Jawa_Barat.public]] 
 
-### #is_/same_as :: [Jawa_Barat.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Barat.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Java/Jawa_Barat.internal|Jawa_Barat.internal]] 
 
-### #is_/same_as :: [Jawa_Barat.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Barat.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Java/Jawa_Barat.protect|Jawa_Barat.protect]] 
 
-### #is_/same_as :: [Jawa_Barat.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Barat.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Java/Jawa_Barat.private|Jawa_Barat.private]] 
 
-### #is_/same_as :: [Jawa_Barat.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Barat.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Java/Jawa_Barat.personal|Jawa_Barat.personal]] 
 
-### #is_/same_as :: [Jawa_Barat.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Jawa_Barat.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Java/Jawa_Barat.secret|Jawa_Barat.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Sulawesi_Tenggara/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sulawesi_Tenggara](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Tenggara.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi/Sulawesi_Tenggara|Sulawesi_Tenggara]] 
 
-### #is_/same_as :: [Sulawesi_Tenggara.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Tenggara.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi/Sulawesi_Tenggara.public|Sulawesi_Tenggara.public]] 
 
-### #is_/same_as :: [Sulawesi_Tenggara.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Tenggara.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi/Sulawesi_Tenggara.internal|Sulawesi_Tenggara.internal]] 
 
-### #is_/same_as :: [Sulawesi_Tenggara.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Tenggara.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi/Sulawesi_Tenggara.protect|Sulawesi_Tenggara.protect]] 
 
-### #is_/same_as :: [Sulawesi_Tenggara.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Tenggara.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi/Sulawesi_Tenggara.private|Sulawesi_Tenggara.private]] 
 
-### #is_/same_as :: [Sulawesi_Tenggara.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Tenggara.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi/Sulawesi_Tenggara.personal|Sulawesi_Tenggara.personal]] 
 
-### #is_/same_as :: [Sulawesi_Tenggara.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi_Tenggara.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sulawesi/Sulawesi_Tenggara.secret|Sulawesi_Tenggara.secret]] 
 

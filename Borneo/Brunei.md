@@ -425,17 +425,17 @@ Capital :: [[Brunei/Bandar_Seri_Begawan]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brunei](/_Standards/Earth/Continent/Australasia/Micronesia/Brunei.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei|Brunei]] 
 
-### #is_/same_as :: [Brunei.public](/_public/Earth/Continent/Australasia/Micronesia/Brunei.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei.public|Brunei.public]] 
 
-### #is_/same_as :: [Brunei.internal](/_internal/Earth/Continent/Australasia/Micronesia/Brunei.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei.internal|Brunei.internal]] 
 
-### #is_/same_as :: [Brunei.protect](/_protect/Earth/Continent/Australasia/Micronesia/Brunei.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei.protect|Brunei.protect]] 
 
-### #is_/same_as :: [Brunei.private](/_private/Earth/Continent/Australasia/Micronesia/Brunei.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei.private|Brunei.private]] 
 
-### #is_/same_as :: [Brunei.personal](/_personal/Earth/Continent/Australasia/Micronesia/Brunei.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei.personal|Brunei.personal]] 
 
-### #is_/same_as :: [Brunei.secret](/_secret/Earth/Continent/Australasia/Micronesia/Brunei.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Borneo/Brunei.secret|Brunei.secret]] 
 

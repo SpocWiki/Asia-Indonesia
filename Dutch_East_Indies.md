@@ -126,4 +126,19 @@ inception: 1800-01-01T00:00:00Z
 > [Wikipedia](https://en.wikipedia.org/wiki/Dutch%20East%20Indies)  
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Dutch_East_Indies|Dutch_East_Indies]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Dutch_East_Indies.public|Dutch_East_Indies.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Dutch_East_Indies.internal|Dutch_East_Indies.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Dutch_East_Indies.protect|Dutch_East_Indies.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Dutch_East_Indies.private|Dutch_East_Indies.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Dutch_East_Indies.personal|Dutch_East_Indies.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/Dutch_East_Indies.secret|Dutch_East_Indies.secret]] 
 

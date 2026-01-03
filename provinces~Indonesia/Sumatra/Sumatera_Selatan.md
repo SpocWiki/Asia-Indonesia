@@ -40,17 +40,17 @@ markerFolder: ./Sumatera_Selatan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sumatera_Selatan](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Selatan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Selatan|Sumatera_Selatan]] 
 
-### #is_/same_as :: [Sumatera_Selatan.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Selatan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Selatan.public|Sumatera_Selatan.public]] 
 
-### #is_/same_as :: [Sumatera_Selatan.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Selatan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Selatan.internal|Sumatera_Selatan.internal]] 
 
-### #is_/same_as :: [Sumatera_Selatan.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Selatan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Selatan.protect|Sumatera_Selatan.protect]] 
 
-### #is_/same_as :: [Sumatera_Selatan.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Selatan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Selatan.private|Sumatera_Selatan.private]] 
 
-### #is_/same_as :: [Sumatera_Selatan.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Selatan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Selatan.personal|Sumatera_Selatan.personal]] 
 
-### #is_/same_as :: [Sumatera_Selatan.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatera_Selatan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/provinces~Indonesia/Sumatra/Sumatera_Selatan.secret|Sumatera_Selatan.secret]] 
 

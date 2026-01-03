@@ -24,3 +24,20 @@ Commons_category: History of Indonesia
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Indonesia) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia|History_of_Indonesia]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia.public|History_of_Indonesia.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia.internal|History_of_Indonesia.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia.protect|History_of_Indonesia.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia.private|History_of_Indonesia.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia.personal|History_of_Indonesia.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia/History_of_Indonesia.secret|History_of_Indonesia.secret]] 
+
