@@ -5,28 +5,28 @@ location:
   - -2.5
   - 101.5
 coordinate_location: Point(101.5 -2.5)
-significant_event: "[[_Standards/WikiData/WD~list_of_World_Heritage_in_Danger,222384]]"
+significant_event: "[[_Standards/WikiData/WD~list_of_World_Heritage_in_Danger,222384|WD~list_of_World_Heritage_in_Danger,222384]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Bukit_Barisan_Selatan_National_Park,1309771]]"
-  - "[[_Standards/WikiData/WD~Gunung_Leuser_National_Park,1335616]]"
-  - "[[_Standards/WikiData/WD~Kerinci_Seblat_National_Park,1467901]]"
-instance_of: "[[_Standards/WikiData/WD~protected_area_of_Indonesia,7251271]]"
-IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_III_Natural_Monument_or_Feature,14545633]]"
+  - "[[_Standards/WikiData/WD~Bukit_Barisan_Selatan_National_Park,1309771|WD~Bukit_Barisan_Selatan_National_Park,1309771]]"
+  - "[[_Standards/WikiData/WD~Gunung_Leuser_National_Park,1335616|WD~Gunung_Leuser_National_Park,1335616]]"
+  - "[[_Standards/WikiData/WD~Kerinci_Seblat_National_Park,1467901|WD~Kerinci_Seblat_National_Park,1467901]]"
+instance_of: "[[_Standards/WikiData/WD~protected_area_of_Indonesia,7251271|WD~protected_area_of_Indonesia,7251271]]"
+IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_III_Natural_Monument_or_Feature,14545633|WD~IUCN_category_III_Natural_Monument_or_Feature,14545633]]"
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(vii),23038981]]"
-  - "[[_Standards/WikiData/WD~(ix),23038985]]"
+  - "[[_Standards/WikiData/WD~(vii),23038981|WD~(vii),23038981]]"
+  - "[[_Standards/WikiData/WD~(ix),23038985|WD~(ix),23038985]]"
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Aceh,1823]]"
-  - "[[_Standards/WikiData/WD~Bengkulu,1890]]"
-  - "[[_Standards/WikiData/WD~Jambi,2051]]"
-  - "[[_Standards/WikiData/WD~Lampung,2110]]"
-  - "[[_Standards/WikiData/WD~North_Sumatra,2140]]"
-  - "[[_Standards/WikiData/WD~South_Sumatra,2271]]"
-  - "[[_Standards/WikiData/WD~West_Sumatra,2772]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Sumatra,3492]]"
-heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
-continent: "[[_Standards/WikiData/WD~Asia,48]]"
-country: "[[_Standards/WikiData/WD~Indonesia,252]]"
+  - "[[_Standards/WikiData/WD~Aceh,1823|WD~Aceh,1823]]"
+  - "[[_Standards/WikiData/WD~Bengkulu,1890|WD~Bengkulu,1890]]"
+  - "[[_Standards/WikiData/WD~Jambi,2051|WD~Jambi,2051]]"
+  - "[[_Standards/WikiData/WD~Lampung,2110|WD~Lampung,2110]]"
+  - "[[_Standards/WikiData/WD~North_Sumatra,2140|WD~North_Sumatra,2140]]"
+  - "[[_Standards/WikiData/WD~South_Sumatra,2271|WD~South_Sumatra,2271]]"
+  - "[[_Standards/WikiData/WD~West_Sumatra,2772|WD~West_Sumatra,2772]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Sumatra,3492|WD~Sumatra,3492]]"
+heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]"
+continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
+country: "[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
 area:
   - 25000
   - 2595124

@@ -6,30 +6,30 @@ aliases:
   - Srivijaya
 has_id_wikidata: Q234197
 official_religion:
-  - "[[_Standards/WikiData/WD~Vajrayana,172175]]"
-  - "[[_Standards/WikiData/WD~Hinduism,9089]]"
-  - "[[_Standards/WikiData/WD~Mahāyāna,48362]]"
+  - "[[_Standards/WikiData/WD~Vajrayana,172175|WD~Vajrayana,172175]]"
+  - "[[_Standards/WikiData/WD~Hinduism,9089|WD~Hinduism,9089]]"
+  - "[[_Standards/WikiData/WD~Mahāyāna,48362|WD~Mahāyāna,48362]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~New_Book_of_Tang,386073]]"
-  - "[[_Standards/WikiData/WD~History_of_Song,1147260]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~History_of_Ming,28763]]"
-instance_of: "[[_Standards/WikiData/WD~historical_country,3024240]]"
-different_from: "[[_Standards/WikiData/WD~Khruba_Siwichai,13013731]]"
-has_works_in_the_collection: "[[_Standards/WikiData/WD~Sumatran_Numismatic_Museum,64681279]]"
+  - "[[_Standards/WikiData/WD~New_Book_of_Tang,386073|WD~New_Book_of_Tang,386073]]"
+  - "[[_Standards/WikiData/WD~History_of_Song,1147260|WD~History_of_Song,1147260]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~History_of_Ming,28763|WD~History_of_Ming,28763]]"
+instance_of: "[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]"
+different_from: "[[_Standards/WikiData/WD~Khruba_Siwichai,13013731|WD~Khruba_Siwichai,13013731]]"
+has_works_in_the_collection: "[[_Standards/WikiData/WD~Sumatran_Numismatic_Museum,64681279|WD~Sumatran_Numismatic_Museum,64681279]]"
 replaced_by:
-  - "[[_Standards/WikiData/WD~Kingdom_of_Palembang,112963228]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_Singapura,27842]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Palembang,112963228|WD~Kingdom_of_Palembang,112963228]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_Singapura,27842|WD~Kingdom_of_Singapura,27842]]"
 inception: 0650-01-01T00:00:00Z
 coordinate_location: Point(102.0 0.0)
 location:
-  - "[[_Standards/WikiData/WD~South_Sumatra,2271]]"
-  - "[[_Standards/WikiData/WD~Palembang,8131]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~monarchy,7269]]"
-capital: "[[_Standards/WikiData/WD~Palembang,8131]]"
-language_used: "[[_Standards/WikiData/WD~Sanskrit,11059]]"
-country: "[[_Standards/WikiData/WD~Indonesia,252]]"
-religion_or_worldview: "[[_Standards/WikiData/WD~Mahāyāna,48362]]"
+  - "[[_Standards/WikiData/WD~South_Sumatra,2271|WD~South_Sumatra,2271]]"
+  - "[[_Standards/WikiData/WD~Palembang,8131|WD~Palembang,8131]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~monarchy,7269|WD~monarchy,7269]]"
+capital: "[[_Standards/WikiData/WD~Palembang,8131|WD~Palembang,8131]]"
+language_used: "[[_Standards/WikiData/WD~Sanskrit,11059|WD~Sanskrit,11059]]"
+country: "[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
+religion_or_worldview: "[[_Standards/WikiData/WD~Mahāyāna,48362|WD~Mahāyāna,48362]]"
 locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Srivijaya%20Empire.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Srivijayan%20Expansion.gif

@@ -4,17 +4,17 @@ aliases:
 has_id_wikidata: Q4516
 location: [-4.75, 137.833333]
 instance_of:
-  - "[[_Standards/WikiData/WD~nature_reserve,179049]]"
-  - "[[_Standards/WikiData/WD~national_park_of_Indonesia,393259]]"
-named_after: "[[_Standards/WikiData/WD~Hendrikus_Albertus_Lorentz,1398702]]"
-significant_place: "[[_Standards/WikiData/WD~Wamena,2307531]]"
-IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_II_National_Park,14545628]]"
+  - "[[_Standards/WikiData/WD~nature_reserve,179049|WD~nature_reserve,179049]]"
+  - "[[_Standards/WikiData/WD~national_park_of_Indonesia,393259|WD~national_park_of_Indonesia,393259]]"
+named_after: "[[_Standards/WikiData/WD~Hendrikus_Albertus_Lorentz,1398702|WD~Hendrikus_Albertus_Lorentz,1398702]]"
+significant_place: "[[_Standards/WikiData/WD~Wamena,2307531|WD~Wamena,2307531]]"
+IUCN_protected_areas_category: "[[_Standards/WikiData/WD~IUCN_category_II_National_Park,14545628|WD~IUCN_category_II_National_Park,14545628]]"
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(viii),23038983]]"
-  - "[[_Standards/WikiData/WD~(ix),23038985]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Papua,5095]]"
-heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
-country: "[[_Standards/WikiData/WD~Indonesia,252]]"
+  - "[[_Standards/WikiData/WD~(viii),23038983|WD~(viii),23038983]]"
+  - "[[_Standards/WikiData/WD~(ix),23038985|WD~(ix),23038985]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Papua,5095|WD~Papua,5095]]"
+heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]"
+country: "[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
 elevation_above_sea_level: 64
 area:
   - 2350000

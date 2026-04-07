@@ -2,21 +2,21 @@
 aliases:
 has_id_wikidata: Q40561
 subclass_of:
-  - "[[_Standards/WikiData/WD~budō,752021]]"
-  - "[[_Standards/WikiData/WD~combat_sport,7128792]]"
-  - "[[_Standards/WikiData/WD~Shinto_ritual,11588671]]"
-  - "[[_Standards/WikiData/WD~martial_art,11417]]"
+  - "[[_Standards/WikiData/WD~budō,752021|WD~budō,752021]]"
+  - "[[_Standards/WikiData/WD~combat_sport,7128792|WD~combat_sport,7128792]]"
+  - "[[_Standards/WikiData/WD~Shinto_ritual,11588671|WD~Shinto_ritual,11588671]]"
+  - "[[_Standards/WikiData/WD~martial_art,11417|WD~martial_art,11417]]"
 regulated_by:
-  - "[[_Standards/WikiData/WD~Japan_Sumo_Association,1426308]]"
-  - "[[_Standards/WikiData/WD~International_Sumo_Federation,3799706]]"
-  - "[[_Standards/WikiData/WD~Japan_Sumo_Federation,11508669]]"
-uses: "[[_Standards/WikiData/WD~mawashi,1912008]]"
-practiced_by: "[[_Standards/WikiData/WD~rikishi,2727289]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_sumo,22826922]]"
+  - "[[_Standards/WikiData/WD~Japan_Sumo_Association,1426308|WD~Japan_Sumo_Association,1426308]]"
+  - "[[_Standards/WikiData/WD~International_Sumo_Federation,3799706|WD~International_Sumo_Federation,3799706]]"
+  - "[[_Standards/WikiData/WD~Japan_Sumo_Federation,11508669|WD~Japan_Sumo_Federation,11508669]]"
+uses: "[[_Standards/WikiData/WD~mawashi,1912008|WD~mawashi,1912008]]"
+practiced_by: "[[_Standards/WikiData/WD~rikishi,2727289|WD~rikishi,2727289]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_sumo,22826922|WD~Template_sumo,22826922]]"
 inception: 0642-01-01T00:00:00Z
-instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629]]"
-country_of_origin: "[[_Standards/WikiData/WD~Japan,17]]"
-country: "[[_Standards/WikiData/WD~Japan,17]]"
+instance_of: "[[_Standards/WikiData/WD~type_of_sport,31629|WD~type_of_sport,31629]]"
+country_of_origin: "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
+country: "[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]"
 Commons_category: Sumo
 RIA_Novosti_reference: "54395272"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Asashoryu%20fight%20Jan08.JPG

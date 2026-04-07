@@ -5,14 +5,14 @@ aliases:
 has_id_wikidata: Q185291
 location: [-0.416666666, 125.416666666]
 coordinate_location: Point(125.416666666 -0.416666666)
-shares_border_with: "[[_Standards/WikiData/WD~Modisi,12498724]]"
+shares_border_with: "[[_Standards/WikiData/WD~Modisi,12498724|WD~Modisi,12498724]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Q35541239,35541239]]"
-part_of: "[[_Standards/WikiData/WD~Pacific_Ocean,98]]"
-instance_of: "[[_Standards/WikiData/WD~sea,165]]"
-basin_country: "[[_Standards/WikiData/WD~Indonesia,252]]"
-country: "[[_Standards/WikiData/WD~Indonesia,252]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Q35541239,35541239|WD~Q35541239,35541239]]"
+part_of: "[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]"
+instance_of: "[[_Standards/WikiData/WD~sea,165|WD~sea,165]]"
+basin_country: "[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
+country: "[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Locatie%20Molukse%20Zee.PNG
 ---
 

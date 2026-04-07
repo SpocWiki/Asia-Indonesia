@@ -119,7 +119,7 @@ markerFolder: ./
 [Area-Land::1919440] 
 Continent :: [[Oceania]]  
 [VehicleCode::RI] 
-Capital :: [[provinces~Indonesia/Jakarta_Raya/City/Jakarta]]  
+Capital :: [[provinces~Indonesia/Jakarta_Raya/City/Jakarta|Jakarta]]  
 [Alcohol-l::0.6] 
 [Language-Id::] 
 [geo-lon::109.755] 

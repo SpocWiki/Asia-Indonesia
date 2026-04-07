@@ -6,18 +6,18 @@ aliases:
   - Indonesische Onafhankelijkheidsoorlog
   - Indonesian National Revolution
 has_id_wikidata: Q1332160
-described_by_source: "[[_Standards/WikiData/WD~Canon_of_Dutch_History,907660]]"
-part_of: "[[_Standards/WikiData/WD~decolonisation_of_Asia,5249554]]"
+described_by_source: "[[_Standards/WikiData/WD~Canon_of_Dutch_History,907660|WD~Canon_of_Dutch_History,907660]]"
+part_of: "[[_Standards/WikiData/WD~decolonisation_of_Asia,5249554|WD~decolonisation_of_Asia,5249554]]"
 participant:
-  - "[[_Standards/WikiData/WD~British_Empire,8680]]"
-  - "[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999]]"
-  - "[[_Standards/WikiData/WD~United_Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~Indonesia,252]]"
+  - "[[_Standards/WikiData/WD~British_Empire,8680|WD~British_Empire,8680]]"
+  - "[[_Standards/WikiData/WD~Kingdom_of_the_Netherlands,29999|WD~Kingdom_of_the_Netherlands,29999]]"
+  - "[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]"
+  - "[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~revolution,10931]]"
-  - "[[_Standards/WikiData/WD~war,198]]"
-location: "[[_Standards/WikiData/WD~Indonesia,252]]"
-country: "[[_Standards/WikiData/WD~Indonesia,252]]"
+  - "[[_Standards/WikiData/WD~revolution,10931|WD~revolution,10931]]"
+  - "[[_Standards/WikiData/WD~war,198|WD~war,198]]"
+location: "[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
+country: "[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/COLLECTIE%20TROPENMUSEUM%20Militaire%20kolonne%20tijdens%20de%20eerste%20politionele%20actie%20TMnr%2010029135.jpg
 Commons_category: Indonesian Revolution
 end_time: 1949-12-27T00:00:00Z
