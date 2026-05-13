@@ -36,7 +36,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Nusa_Tenggara_Barat/
 markerFolder: ./Nusa_Tenggara_Barat/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

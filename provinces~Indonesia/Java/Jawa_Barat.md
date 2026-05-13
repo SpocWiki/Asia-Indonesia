@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Jawa_Barat/
 markerFolder: ./Jawa_Barat/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

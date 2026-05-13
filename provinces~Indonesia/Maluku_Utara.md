@@ -40,7 +40,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Maluku_Utara/
 markerFolder: ./Maluku_Utara/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -420,7 +420,7 @@ Capital :: [[Brunei/Bandar_Seri_Begawan|Bandar_Seri_Begawan]]
 >
 > Brunei has been led by Sultan Hassanal Bolkiah since 1967, and the country's unicameral legislature, the Legislative Council, is simply consultative and are all appointed by the Sultan. The country's wealth derives from its extensive petroleum and natural gas fields. Economic growth during the 1990s and 2000s has transformed Brunei into an industrialised country, with its GDP increasing 56% between 1999 and 2008. Political stability is maintained by the House of Bolkiah by providing a welfare state for its citizens, with free or significant subsidies in regards to housing, healthcare and education. It ranks "very high" on the Human Development Index (HDI)—the second-highest among Southeast Asian states after Singapore, which it maintains close relations with including a Currency Interchangeability Agreement. According to the International Monetary Fund (IMF), Brunei is ranked ninth in the world by gross domestic product per capita at purchasing power parity. Brunei is a member of the United Nations, the World Trade Organization, the East Asia Summit, the Organisation of Islamic Cooperation, the Non-Aligned Movement, the Commonwealth of Nations, and ASEAN.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Brunei)
+> [Wikipedia](https://en.wikipedia.org/wiki/Brunei) 
 
 
 ## Confidential Links & Embeds: 

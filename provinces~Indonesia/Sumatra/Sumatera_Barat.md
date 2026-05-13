@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Sumatera_Barat/
 markerFolder: ./Sumatera_Barat/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

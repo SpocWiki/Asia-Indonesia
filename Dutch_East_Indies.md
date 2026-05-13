@@ -123,7 +123,7 @@ inception: 1800-01-01T00:00:00Z
 > under the provisions of the New York Agreement. 
 > At that point, the entirety of the colony ceased to exist.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dutch%20East%20Indies)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Dutch%20East%20Indies) 
 
 
 ## Confidential Links & Embeds: 

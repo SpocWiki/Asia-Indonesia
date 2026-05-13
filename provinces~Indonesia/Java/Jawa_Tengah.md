@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Jawa_Tengah/
 markerFolder: ./Jawa_Tengah/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

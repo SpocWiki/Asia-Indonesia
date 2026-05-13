@@ -32,7 +32,7 @@ coordinates: [[Bandar_Seri_Begawan]]
 markerFile: [[Bandar_Seri_Begawan]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

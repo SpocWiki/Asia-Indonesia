@@ -38,7 +38,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Nusa_Tenggara_Timur/
 markerFolder: ./Nusa_Tenggara_Timur/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

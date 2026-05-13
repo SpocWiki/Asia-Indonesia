@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Sulawesi_Tengah/
 markerFolder: ./Sulawesi_Tengah/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

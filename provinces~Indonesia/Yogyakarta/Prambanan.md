@@ -40,7 +40,7 @@ official_website: http://www.borobudurpark.com/prambanan.php
 >
 > The temple compound, a UNESCO World Heritage Site, is the largest Hindu temple site in Indonesia and the second-largest in Southeast Asia after Angkor Wat. It is characterized by its tall and pointed architecture, typical of Hindu architecture, and by the towering 47-metre-high (154 ft) central building inside a large complex of individual temples. Prambanan temple compounds originally consisted of 240 temple structures, which represented the grandeur of ancient Java's Hindu art and architecture, and is also considered as a masterpiece of the classical period in Indonesia. Prambanan attracts many visitors from around the world.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Prambanan)
+> [Wikipedia](https://en.wikipedia.org/wiki/Prambanan) 
 
 
 ## Confidential Links & Embeds: 

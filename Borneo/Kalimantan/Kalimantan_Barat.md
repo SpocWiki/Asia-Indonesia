@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kalimantan_Barat/
 markerFolder: ./Kalimantan_Barat/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

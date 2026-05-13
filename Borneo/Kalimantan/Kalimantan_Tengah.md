@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kalimantan_Tengah/
 markerFolder: ./Kalimantan_Tengah/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

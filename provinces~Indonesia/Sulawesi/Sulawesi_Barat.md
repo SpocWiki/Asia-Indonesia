@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Sulawesi_Barat/
 markerFolder: ./Sulawesi_Barat/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

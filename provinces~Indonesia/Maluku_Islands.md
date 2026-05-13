@@ -59,7 +59,7 @@ markerFile: [[Maluku_Islands]]
 >
 > The Maluku Islands formed a single province from Indonesian independence until 1999, when they were split into two provinces. A new province, North Maluku, incorporates the area between Morotai and Sula, with the arc of islands from Buru and Seram to Wetar remaining within the existing Maluku Province. North Maluku is predominantly Muslim, and its capital is Sofifi on Halmahera island. Maluku province has a larger Christian population, and its capital is Ambon. Though originally Melanesian, many island populations, especially in the Banda Islands, were massacred in the 17th century during the Dutch–Portuguese War, also known as the Spice War. A second influx of immigrants primarily from Java began in the early 20th century under the Dutch and continues in the Indonesian era, which has also caused a lot of controversy as the transmigrant programs are thought to be a contributing factor to the Maluku Riots.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Maluku%20Islands)
+> [Wikipedia](https://en.wikipedia.org/wiki/Maluku%20Islands) 
 
 
 ## Confidential Links & Embeds: 

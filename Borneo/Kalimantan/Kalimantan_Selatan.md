@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kalimantan_Selatan/
 markerFolder: ./Kalimantan_Selatan/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

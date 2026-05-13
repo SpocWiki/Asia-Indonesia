@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Sumatera_Selatan/
 markerFolder: ./Sumatera_Selatan/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kalimantan_Timur/
 markerFolder: ./Kalimantan_Timur/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

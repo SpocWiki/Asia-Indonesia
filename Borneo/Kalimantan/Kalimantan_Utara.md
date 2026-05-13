@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Kalimantan_Utara/
 markerFolder: ./Kalimantan_Utara/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

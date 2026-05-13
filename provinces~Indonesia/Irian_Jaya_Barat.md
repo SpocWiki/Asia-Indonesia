@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Irian_Jaya_Barat/
 markerFolder: ./Irian_Jaya_Barat/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

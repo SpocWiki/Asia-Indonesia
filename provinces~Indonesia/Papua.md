@@ -38,7 +38,7 @@ defaultZoom: 6
 maxZoom: 18
 geojsonFolder: ./Papua/
 markerFolder: ./Papua/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -210,7 +210,7 @@ maxZoom: 18
 >
 > Jakarta's main challenges include rapid urban growth, ecological breakdown, air pollution, gridlocked traffic, congestion, and flooding due to subsidence and water extraction (sea level rise is relative, not absolute). Part of North Jakarta is sinking up to 17 cm (6.7 inches) annually, meanwhile the southern part is relatively safe. This has made the northern part of the city more prone to flooding and one of the fastest-sinking capitals in the world. In response to these challenges, in August 2019, President Joko Widodo announced plans to move the capital from Jakarta to the planned city of Nusantara, in the province of East Kalimantan on the island of Borneo. The MPR approved the move on 18 January 2022. The Indonesian government is not abandoning Jakarta after announcing plans to move the country's capital, its planning minister said, pledging to spend US$40 billion, which is more than the cost to build Nusantara, to save the city in the next decade.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Jakarta)
+> [Wikipedia](https://en.wikipedia.org/wiki/Jakarta) 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Sulawesi_Selatan/
 markerFolder: ./Sulawesi_Selatan/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
