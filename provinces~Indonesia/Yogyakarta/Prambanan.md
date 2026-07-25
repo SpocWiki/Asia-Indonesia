@@ -5,18 +5,18 @@ aliases:
   - ꦫꦫꦗꦺꦴꦁꦒꦿꦁ
 has_id_wikidata: Q47721
 instance_of:
-  - "[[_Standards/WikiData/WD~candi,2736554|WD~candi,2736554]]"
-  - "[[_Standards/WikiData/WD~cultural_heritage_of_Sleman_Regency,134456340|WD~cultural_heritage_of_Sleman_Regency,134456340]]"
+  - "[[/_Standards/WikiData/WD~candi,2736554|WD~candi,2736554]]"
+  - "[[/_Standards/WikiData/WD~cultural_heritage_of_Sleman_Regency,134456340|WD~cultural_heritage_of_Sleman_Regency,134456340]]"
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Prambanan,4089482|WD~Prambanan,4089482]]"
-  - "[[_Standards/WikiData/WD~Prambanan,5030623|WD~Prambanan,5030623]]"
+  - "[[/_Standards/WikiData/WD~Prambanan,4089482|WD~Prambanan,4089482]]"
+  - "[[/_Standards/WikiData/WD~Prambanan,5030623|WD~Prambanan,5030623]]"
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(i),23038972|WD~(i),23038972]]"
-  - "[[_Standards/WikiData/WD~(iv),23038978|WD~(iv),23038978]]"
+  - "[[/_Standards/WikiData/WD~(i),23038972|WD~(i),23038972]]"
+  - "[[/_Standards/WikiData/WD~(iv),23038978|WD~(iv),23038978]]"
 coordinate_location: Point(110.49122 -7.752)
-religion_or_worldview: "[[_Standards/WikiData/WD~Hinduism,9089|WD~Hinduism,9089]]"
-heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]"
-country: "[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
+religion_or_worldview: "[[/_Standards/WikiData/WD~Hinduism,9089|WD~Hinduism,9089]]"
+heritage_designation: "[[/_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]"
+country: "[[/_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
 height: 47
 Commons_category: Prambanan
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Prambanan%20banner.jpg

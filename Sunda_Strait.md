@@ -6,17 +6,17 @@ has_id_wikidata: Q192790
 location: [-5.970277777, 105.769722222]
 coordinate_location: Point(105.769722222 -5.970277777)
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 located_in_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Lampung,2110|WD~Lampung,2110]]"
-  - "[[_Standards/WikiData/WD~Banten,3540|WD~Banten,3540]]"
+  - "[[/_Standards/WikiData/WD~Lampung,2110|WD~Lampung,2110]]"
+  - "[[/_Standards/WikiData/WD~Banten,3540|WD~Banten,3540]]"
 width: 100
 vertical_depth: 20
-country: "[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
-instance_of: "[[_Standards/WikiData/WD~strait,37901|WD~strait,37901]]"
-part_of: "[[_Standards/WikiData/WD~Java_Sea,49364|WD~Java_Sea,49364]]"
+country: "[[/_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
+instance_of: "[[/_Standards/WikiData/WD~strait,37901|WD~strait,37901]]"
+part_of: "[[/_Standards/WikiData/WD~Java_Sea,49364|WD~Java_Sea,49364]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Straat%20van%20soenda.jpg
 Commons_category: Sunda Strait
 native_label:

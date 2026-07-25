@@ -5,18 +5,18 @@ aliases:
   - Illa Sunda
 has_id_wikidata: Q154190
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Greater_Sunda_Islands,165481|WD~Greater_Sunda_Islands,165481]]"
-  - "[[_Standards/WikiData/WD~Lesser_Sunda_Islands,3803|WD~Lesser_Sunda_Islands,3803]]"
+  - "[[/_Standards/WikiData/WD~Greater_Sunda_Islands,165481|WD~Greater_Sunda_Islands,165481]]"
+  - "[[/_Standards/WikiData/WD~Lesser_Sunda_Islands,3803|WD~Lesser_Sunda_Islands,3803]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-instance_of: "[[_Standards/WikiData/WD~island_group,1402592|WD~island_group,1402592]]"
-part_of: "[[_Standards/WikiData/WD~Malayo_Indonesian_Archipelago,113276545|WD~Malayo_Indonesian_Archipelago,113276545]]"
+  - "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+instance_of: "[[/_Standards/WikiData/WD~island_group,1402592|WD~island_group,1402592]]"
+part_of: "[[/_Standards/WikiData/WD~Malayo_Indonesian_Archipelago,113276545|WD~Malayo_Indonesian_Archipelago,113276545]]"
 coordinate_location: Point(110.0 -2.0)
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]"
-country: "[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
+located_in_or_next_to_body_of_water: "[[/_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]"
+country: "[[/_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
 area: 1700000
 elevation_above_sea_level: 4095
 locator_map_image:

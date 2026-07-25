@@ -3,35 +3,35 @@ aliases:
   - Kalimantan
 has_id_wikidata: Q36117
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Sulu_Sea,160194|WD~Sulu_Sea,160194]]"
-  - "[[_Standards/WikiData/WD~Makassar_Strait,194477|WD~Makassar_Strait,194477]]"
-  - "[[_Standards/WikiData/WD~Celebes_Sea,19270|WD~Celebes_Sea,19270]]"
-  - "[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]"
-  - "[[_Standards/WikiData/WD~South_China_Sea,37660|WD~South_China_Sea,37660]]"
-  - "[[_Standards/WikiData/WD~Java_Sea,49364|WD~Java_Sea,49364]]"
-part_of: "[[_Standards/WikiData/WD~Malay_Archipelago,208643|WD~Malay_Archipelago,208643]]"
+  - "[[/_Standards/WikiData/WD~Sulu_Sea,160194|WD~Sulu_Sea,160194]]"
+  - "[[/_Standards/WikiData/WD~Makassar_Strait,194477|WD~Makassar_Strait,194477]]"
+  - "[[/_Standards/WikiData/WD~Celebes_Sea,19270|WD~Celebes_Sea,19270]]"
+  - "[[/_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]"
+  - "[[/_Standards/WikiData/WD~South_China_Sea,37660|WD~South_China_Sea,37660]]"
+  - "[[/_Standards/WikiData/WD~Java_Sea,49364|WD~Java_Sea,49364]]"
+part_of: "[[/_Standards/WikiData/WD~Malay_Archipelago,208643|WD~Malay_Archipelago,208643]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
-  - "[[_Standards/WikiData/WD~History_of_Ming,28763|WD~History_of_Ming,28763]]"
+  - "[[/_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[/_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[/_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[/_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
+  - "[[/_Standards/WikiData/WD~History_of_Ming,28763|WD~History_of_Ming,28763]]"
 coordinate_location: Point(114.0 -1.0)
 country:
-  - "[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~Brunei,921|WD~Brunei,921]]"
-  - "[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
-different_from: "[[_Standards/WikiData/WD~Kalimantan,3795|WD~Kalimantan,3795]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southeast_Asia,11708|WD~Southeast_Asia,11708]]"
-instance_of: "[[_Standards/WikiData/WD~island,23442|WD~island,23442]]"
-continent: "[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
+  - "[[/_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]"
+  - "[[/_Standards/WikiData/WD~Brunei,921|WD~Brunei,921]]"
+  - "[[/_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
+different_from: "[[/_Standards/WikiData/WD~Kalimantan,3795|WD~Kalimantan,3795]]"
+located_in_on_physical_feature: "[[/_Standards/WikiData/WD~Southeast_Asia,11708|WD~Southeast_Asia,11708]]"
+instance_of: "[[/_Standards/WikiData/WD~island,23442|WD~island,23442]]"
+continent: "[[/_Standards/WikiData/WD~Asia,48|WD~Asia,48]]"
 elevation_above_sea_level:
   - 113
   - 4095
-highest_point: "[[_Standards/WikiData/WD~Mount_Kota_Kinabalu,60967|WD~Mount_Kota_Kinabalu,60967]]"
+highest_point: "[[/_Standards/WikiData/WD~Mount_Kota_Kinabalu,60967|WD~Mount_Kota_Kinabalu,60967]]"
 width: 1026
 length: 1366
 population: 18590000

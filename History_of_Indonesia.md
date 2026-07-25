@@ -2,10 +2,10 @@
 aliases:
   - history of Indonesia
 has_id_wikidata: Q331596
-part_of: "[[_Standards/WikiData/WD~history_of_Southeast_Asia,2227514|WD~history_of_Southeast_Asia,2227514]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
-country: "[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
+part_of: "[[/_Standards/WikiData/WD~history_of_Southeast_Asia,2227514|WD~history_of_Southeast_Asia,2227514]]"
+instance_of: "[[/_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[/_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
+country: "[[/_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]"
 Commons_category: History of Indonesia
 ---
 
