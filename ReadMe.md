@@ -1416,7 +1416,7 @@ dv_UNTERM_Chinese_Formal: 印度尼西亚共和国
 dv_UNTERM_French_Formal: la République d'Indonésie
 dv_UNTERM_Russian: Индонезия
 dv_UNTERM_Russian_Formal: Республика Индонезия
-dv_Region_Name: '[[../../../Asia|Asia]]'
+dv_Region_Name: '[[../../../../Asia|Asia]]'
 dv_Intermediate_Region_Name: '[[Indonesia]]'
 dv_Sub-region_Name: '[[South-eastern Asia]]'
 dv_Region: 142
@@ -1441,7 +1441,7 @@ dv_ISO2: ID
 dv_ISO3: IDN
 dv_is_:
   same_as:
-  - '[[../../../../../WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
+  - '[[../../../../../../WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
   - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia|Indonesia]]'
   - '[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.public|Indonesia.public]]'
   - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.internal|Indonesia.internal]]'
@@ -1793,15 +1793,15 @@ dv_has_:
 dv_has_name_de: Indonesien
 dv_Area-Total: 1904443
 dv_Area-Land: 1919440
-dv_has_place_continent: '[[../../../Oceania|Oceania]]'
+dv_has_place_continent: '[[../../../../Oceania|Oceania]]'
 dv_VehicleCode: RI
 dv_Alcohol-l: 0.6
-dv_is_a_: '[[../../../../Geography/Place/Administrative_Area/City|City]]'
+dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 109.755
 dv_has_place_latitude: -6.695
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../../WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
+- '[[../../../../../../WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
 - '[[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia|Indonesia]]'
 - '[[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.public|Indonesia.public]]'
 - '[[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.internal|Indonesia.internal]]'
@@ -1888,7 +1888,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Indonesia/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
  
 ![[Flag_of_Indonesia.svg|350]]
@@ -1921,7 +1921,7 @@ markerFile: [[Indonesia]]
 
 ```leaflet
 id: Indonesia_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1945,7 +1945,7 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Indonesia/provinces~Indonesia/Jakarta_Raya/City/Jakarta|Jakarta]]  
+Capital :: [[provinces~Indonesia/Jakarta_Raya/City/Jakarta|Jakarta]]  
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
 
